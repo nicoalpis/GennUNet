@@ -1,0 +1,2452 @@
+{
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": 0.9512900844092351,
+                "2": 0.9304735612656615,
+                "3": 0.9292117179558267,
+                "4": 0.8079070916728441,
+                "5": 0.7812794471783059,
+                "6": 0.9693134247081532,
+                "7": 0.8842026972338587,
+                "8": 0.931028469285434,
+                "9": 0.8116569465812731,
+                "10": 0.8786430531304564,
+                "11": 0.7440081591024987,
+                "12": 0.7177453027139875
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0008.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0008.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9606697371794305,
+                "2": 0.9575359111226837,
+                "3": 0.9573784006595218,
+                "4": 0.8977659662818703,
+                "5": 0.849169741697417,
+                "6": 0.9757943194310402,
+                "7": 0.9386460348162475,
+                "8": 0.9209750964573834,
+                "9": 0.840450401309125,
+                "10": 0.835525321239607,
+                "11": 0.7140672782874617,
+                "12": 0.7623318385650224
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0033.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0033.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9420217343446675,
+                "2": 0.9364970230693836,
+                "3": 0.929766890557092,
+                "4": 0.21628664495114006,
+                "5": 0.7840385001002607,
+                "6": 0.9625746619935199,
+                "7": 0.8095836853376295,
+                "8": 0.8875604773680249,
+                "9": 0.8820870251343843,
+                "10": 0.7459219514297412,
+                "11": 0.5248392752776154,
+                "12": 0.5718319802329686
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0041.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0041.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9519077806747045,
+                "2": 0.9564576924743295,
+                "3": 0.9565544109819428,
+                "4": 0.9109626510617841,
+                "5": 0.7123985117568199,
+                "6": 0.9718970744066678,
+                "7": 0.3875534732124669,
+                "8": 0.9351656078208628,
+                "9": 0.8134299542936164,
+                "10": 0.7728018332138118,
+                "11": 0.6783018867924528,
+                "12": 0.5789473684210527
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0044.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0044.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.91778809784692,
+                "2": 0.9349292351763691,
+                "3": 0.9437248818274577,
+                "4": 0.34968017057569295,
+                "5": 0.7978357827008847,
+                "6": 0.9600560289762152,
+                "7": 0.8632424240436155,
+                "8": 0.9048681660696459,
+                "9": 0.8388251885462015,
+                "10": 0.5290880503144654,
+                "11": 0.727821363910682,
+                "12": 0.7099112157999637
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0047.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0047.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.953344007671824,
+                "2": 0.9243169214880672,
+                "3": 0.8747935176902518,
+                "4": 0.6528615685635089,
+                "5": 0.8523135755258127,
+                "6": 0.9680328749159192,
+                "7": 0.9338186989419339,
+                "8": 0.8957027752909579,
+                "9": 0.8005237597997779,
+                "10": 0.6679293836417193,
+                "11": 0.7248296007789679,
+                "12": 0.5751708428246014
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0049.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0049.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.961615063131872,
+                "2": 0.9525049104290414,
+                "3": 0.9421146262269385,
+                "4": 0.9205751712715501,
+                "5": 0.8416149068322981,
+                "6": 0.9415417236680991,
+                "7": 0.9608515194918705,
+                "8": 0.910373727871376,
+                "9": 0.8804558740451452,
+                "10": 0.8023676259349151,
+                "11": 0.6792945787067276,
+                "12": 0.7039904705181655
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0061.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0061.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9608223994095195,
+                "2": 0.9620335123187355,
+                "3": 0.9471854269320193,
+                "4": 0.6795991410164639,
+                "5": 0.6863167984663312,
+                "6": 0.9536274149156359,
+                "7": 0.9049301156530748,
+                "8": 0.9120676521566333,
+                "9": 0.7608175409093849,
+                "10": 0.8387230600095418,
+                "11": 0.618030224075039,
+                "12": 0.766654532216964
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0085.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0085.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9514830662121981,
+                "2": 0.956525867286991,
+                "3": 0.9481120950277665,
+                "4": 0.9238029266603169,
+                "5": 0.8799216454456416,
+                "6": 0.9703325070424097,
+                "7": 0.959926632099098,
+                "8": 0.9296347433161792,
+                "9": 0.8765237471412394,
+                "10": 0.8476595744680852,
+                "11": 0.7366568914956012,
+                "12": 0.7824463118580766
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0086.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0086.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9654969432461297,
+                "2": 0.9520264942438101,
+                "3": 0.9612906986912292,
+                "4": 0.9200401952339937,
+                "5": 0.8814498933901919,
+                "6": 0.9765641372267169,
+                "7": 0.9475231307273452,
+                "8": 0.9375700570203226,
+                "9": 0.8895801951666776,
+                "10": 0.9054547785398371,
+                "11": 0.7340366463076069,
+                "12": 0.7389162561576355
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0090.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0090.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9804670489661649,
+                "2": 0.9622700775484729,
+                "3": 0.9659480351198588,
+                "4": 0.9418118138061932,
+                "5": 0.6611536910044373,
+                "6": 0.9841668635327625,
+                "7": 0.9353817366550479,
+                "8": 0.8924431543299468,
+                "9": 0.8525200498271446,
+                "10": 0.8473960894066034,
+                "11": 0.7577594123048669,
+                "12": 0.8401307864395112
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0102.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0102.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9541126209594399,
+                "2": 0.9567430342874608,
+                "3": 0.958958958958959,
+                "4": 0.7862479696805631,
+                "5": 0.8611288500270178,
+                "6": 0.9795846028989137,
+                "7": 0.8302651433498599,
+                "8": 0.9513650512432485,
+                "9": 0.7685873774933178,
+                "10": 0.8573432177920256,
+                "11": 0.8182579564489112,
+                "12": 0.8856251624642578
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0105.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0105.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9766776147286588,
+                "2": 0.9698598615590638,
+                "3": 0.9679838210713922,
+                "4": 0.8462083628632175,
+                "5": 0.8243116780771315,
+                "6": 0.9827881556407537,
+                "7": 0.9578599446779915,
+                "8": 0.9470081851538245,
+                "9": 0.9205382272429348,
+                "10": 0.8852825184099397,
+                "11": 0.8666232921275211,
+                "12": 0.8759757155247181
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0110.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0110.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9750367107195301,
+                "2": 0.9724471269444036,
+                "3": 0.9748001451361822,
+                "4": 0.920158648042766,
+                "5": 0.8671417260490895,
+                "6": 0.9810498079801959,
+                "7": 0.907185331862994,
+                "8": 0.9478708516593363,
+                "9": 0.8847196431239461,
+                "10": 0.9145092624554136,
+                "11": 0.7746212121212122,
+                "12": 0.797923875432526
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0111.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0111.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9722138851591502,
+                "2": 0.9488501326107673,
+                "3": 0.9586541396737103,
+                "4": 0.8771242522102811,
+                "5": 0.8711349865700544,
+                "6": 0.9732632402581198,
+                "7": 0.9427286539973888,
+                "8": 0.9331878920098173,
+                "9": 0.8807710977047362,
+                "10": 0.8977407847800237,
+                "11": 0.6728875064800415,
+                "12": 0.7419354838709677
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0113.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0113.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9742134090273058,
+                "2": 0.8690092525210521,
+                "3": 0.9566595645169672,
+                "4": 0.9613059250302297,
+                "5": 0.749514023882255,
+                "6": 0.9805230360076135,
+                "7": 0.9565654237368275,
+                "8": 0.941545173828215,
+                "9": 0.8024496086304093,
+                "10": 0.8564253826530612,
+                "11": 0.7846829880728186,
+                "12": 0.7777777777777778
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0118.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0118.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9766026199702337,
+                "2": 0.9721785719630645,
+                "3": 0.7675000792217258,
+                "4": 0.9285851780558229,
+                "5": 0.7244094488188977,
+                "6": 0.9744950410579076,
+                "7": 0.9498968567532604,
+                "8": 0.9483779971791255,
+                "9": 0.866172408780346,
+                "10": 0.867247178648895,
+                "11": 0.7807153965785381,
+                "12": 0.6228571428571429
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0121.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0121.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9727796094997682,
+                "2": 0.9469781622039206,
+                "3": 0.9465869503474706,
+                "4": 0.7840412707876966,
+                "5": 0.700216630561573,
+                "6": 0.9584269831932972,
+                "7": 0.48089033303212336,
+                "8": 0.9201671601283,
+                "9": 0.7910900429592783,
+                "10": 0.2553580497714576,
+                "11": 0.5352353780313838,
+                "12": 0.6979065238558909
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0125.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0125.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9464069955561016,
+                "2": 0.9258780482460945,
+                "3": 0.9600665219948487,
+                "4": 0.6708439396906207,
+                "5": 0.7328233256351039,
+                "6": 0.9338217171743656,
+                "7": 0.741321772759879,
+                "8": 0.9358081256720744,
+                "9": 0.8271526340919942,
+                "10": 0.8493309708559907,
+                "11": 0.6877828054298643,
+                "12": 0.5338753387533876
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0132.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0132.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9622310472348293,
+                "2": 0.9343306178977884,
+                "3": 0.9395242556497498,
+                "4": 0.893469583266805,
+                "5": 0.4568469505178366,
+                "6": 0.9702774856021622,
+                "7": 0.9443970331036518,
+                "8": 0.9066359481814404,
+                "9": 0.8967761340953214,
+                "10": 0.838698376863493,
+                "11": 0.6855072463768116,
+                "12": 0.55322265625
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0133.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0133.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9822924861699072,
+                "2": 0.9746924514109626,
+                "3": 0.9768335937693777,
+                "4": 0.92698067820284,
+                "5": 0.7525667351129364,
+                "6": 0.9610450973872565,
+                "7": 0.8785757306892733,
+                "8": 0.9454753217072885,
+                "9": 0.9493658555592355,
+                "10": 0.8709641792143725,
+                "11": 0.8448179271708683,
+                "12": 0.7781236104935527
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0135.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0135.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9744210007615464,
+                "2": 0.9696801333439162,
+                "3": 0.960979651221533,
+                "4": 0.9343733189887036,
+                "5": 0.7126036654039112,
+                "6": 0.9720873930903101,
+                "7": 0.9581288102433315,
+                "8": 0.9557877626843144,
+                "9": 0.9218398754971469,
+                "10": 0.8967642526964561,
+                "11": 0.77079107505071,
+                "12": 0.8432934926958832
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0137.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0137.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9776701720664609,
+                "2": 0.967439399062137,
+                "3": 0.9671733043826067,
+                "4": 0.774687147855999,
+                "5": 0.817911877394636,
+                "6": 0.9740208161697854,
+                "7": 0.9024061274835247,
+                "8": 0.9436350072354998,
+                "9": 0.9408267691458417,
+                "10": 0.8710860060288407,
+                "11": 0.8244084682440846,
+                "12": 0.7230846269404106
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0153.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0153.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9780755054283964,
+                "2": 0.9710956081947355,
+                "3": 0.9772047049354874,
+                "4": 0.7149331783846601,
+                "5": 0.7131141373862012,
+                "6": 0.9740220661985958,
+                "7": 0.956894810254437,
+                "8": 0.9278778891988573,
+                "9": 0.8681062083243061,
+                "10": 0.8695386992498018,
+                "11": 0.6686320754716981,
+                "12": 0.8208695652173913
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0155.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0155.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9761735633706161,
+                "2": 0.9658569453641422,
+                "3": 0.9676597309794032,
+                "4": 0.9219725343320849,
+                "5": 0.8373266078184111,
+                "6": 0.9829644468331135,
+                "7": 0.9625667635467231,
+                "8": 0.9420578095995757,
+                "9": 0.9207640608418819,
+                "10": 0.903974722959978,
+                "11": 0.7773319959879639,
+                "12": 0.7509803921568627
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0157.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0157.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.974167205136313,
+                "2": 0.9662342862863436,
+                "3": 0.9699739104929219,
+                "4": 0.9603775783708193,
+                "5": 0.7715440153672916,
+                "6": 0.9768025052468065,
+                "7": 0.9563676691581303,
+                "8": 0.9516344991998955,
+                "9": 0.8876341624701155,
+                "10": 0.8901605369791827,
+                "11": 0.8592268417213713,
+                "12": 0.806609547123623
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0170.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0170.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.915477205305691,
+                "2": 0.935499808305699,
+                "3": 0.8843704524518378,
+                "4": 0.7677776146429794,
+                "5": 0.7859064012910166,
+                "6": 0.9505293647764566,
+                "7": 0.5198830892830222,
+                "8": 0.9256276916348979,
+                "9": 0.6613317793479505,
+                "10": 0.7559130289505717,
+                "11": 0,
+                "12": 0.054682955206515414
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0173.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0173.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9566230490000674,
+                "2": 0.9684651728029167,
+                "3": 0.963375815900618,
+                "4": 0.9191028225806451,
+                "5": 0.7333333333333333,
+                "6": 0.974769794121911,
+                "7": 0.9533024148408764,
+                "8": 0.9244432756786478,
+                "9": 0.9288753516705806,
+                "10": 0.9195668045753225,
+                "11": 0.8035019455252919,
+                "12": 0.8259935553168636
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0176.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0176.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9692115214569262,
+                "2": 0.957346765413192,
+                "3": 0.9599330405669811,
+                "4": 0.9548626875442134,
+                "5": 0.7612944569048382,
+                "6": 0.9797890162519799,
+                "7": 0.9409360310647864,
+                "8": 0.9338863378264949,
+                "9": 0.8473076244383815,
+                "10": 0.8193728284683648,
+                "11": 0.667945205479452,
+                "12": 0.6104961049610496
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0180.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0180.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9786427799105238,
+                "2": 0.9707699354982482,
+                "3": 0.9718087003030843,
+                "4": 0.9198506176386096,
+                "5": 0.9192971038073544,
+                "6": 0.9804401162856635,
+                "7": 0.8094442970615315,
+                "8": 0.9546017333883615,
+                "9": 0.9137152243096192,
+                "10": 0.898822166441398,
+                "11": 0.7926315789473685,
+                "12": 0.7003322259136212
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0184.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0184.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9542812839945428,
+                "2": 0.9653811534999653,
+                "3": 0.9432144355853965,
+                "4": 0.8436845778087927,
+                "5": 0.7614788312462731,
+                "6": 0.9760867978689761,
+                "7": 0.843610441346053,
+                "8": 0.943025884068538,
+                "9": 0.759810814265627,
+                "10": 0.8670216097713749,
+                "11": 0.794995187680462,
+                "12": 0.7124773960216998
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0185.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0185.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9694208338726611,
+                "2": 0.9747557038829651,
+                "3": 0.9657352715036499,
+                "4": 0.8264900662251655,
+                "5": 0.8255211088773675,
+                "6": 0.9753435243939819,
+                "7": 0.876327573191036,
+                "8": 0.9468852269107128,
+                "9": 0.8583529606214619,
+                "10": 0.8764339733939058,
+                "11": 0.7135295363116663,
+                "12": 0.4232848232848233
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0189.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0189.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9617455392718021,
+                "2": 0.9480546120385397,
+                "3": 0.9517428717701761,
+                "4": 0.9086086724098937,
+                "5": 0.8538758927986371,
+                "6": 0.9724514135433383,
+                "7": 0.9468966572659102,
+                "8": 0.941219058693184,
+                "9": 0.8537620263612681,
+                "10": 0.893744851097143,
+                "11": 0.7562122229684352,
+                "12": 0.7786166088553357
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0207.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0207.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9653679028742187,
+                "2": 0.9660766725484607,
+                "3": 0.9644514428947876,
+                "4": 0.9241448617262813,
+                "5": 0.7512925737868354,
+                "6": 0.9770406594148695,
+                "7": 0.950572457023672,
+                "8": 0.9501775587003763,
+                "9": 0.909315866084425,
+                "10": 0.8981182631995616,
+                "11": 0.7582755966127791,
+                "12": 0.8005502063273727
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0214.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0214.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9705492682607415,
+                "2": 0.959262001180416,
+                "3": 0.955323724982564,
+                "4": 0.8798007804477306,
+                "5": 0.7602625605242265,
+                "6": 0.9764887038726214,
+                "7": 0.9486986095001408,
+                "8": 0.9443368793236422,
+                "9": 0.8603325890625521,
+                "10": 0.8535469025661947,
+                "11": 0.7748616825081572,
+                "12": 0.8368772782503038
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0226.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0226.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9730257499429534,
+                "2": 0.9642055041161972,
+                "3": 0.9660698027314112,
+                "4": 0.9233141407241143,
+                "5": 0.8306148888815068,
+                "6": 0.9785379795692334,
+                "7": 0.9245796559552281,
+                "8": 0.9433327267376159,
+                "9": 0.93071000855432,
+                "10": 0.8788667899510636,
+                "11": 0.7776223776223776,
+                "12": 0.7813865147198481
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0247.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0247.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9663476434743691,
+                "2": 0.9595544314345889,
+                "3": 0.9641104122730072,
+                "4": 0.9299555869810195,
+                "5": 0.8963476761501685,
+                "6": 0.9719859407509732,
+                "7": 0.9496003153624919,
+                "8": 0.9468533010029758,
+                "9": 0.9428098020406384,
+                "10": 0.8220977422120606,
+                "11": 0.750399303034703,
+                "12": 0.7227711263512728
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0248.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0248.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9548473428905966,
+                "2": 0.9652797667920541,
+                "3": 0.9431071561872375,
+                "4": 0.9101689890305367,
+                "5": 0.9167884634122576,
+                "6": 0.9655641711482067,
+                "7": 0.9670909885292397,
+                "8": 0.9324221875921325,
+                "9": 0.8366931838727174,
+                "10": 0.871885064297298,
+                "11": 0.797979797979798,
+                "12": 0.8428602477722235
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0257.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0257.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9574965774517094,
+                "2": 0.9550479444171861,
+                "3": 0.9620235992522472,
+                "4": 0.9352041584181341,
+                "5": 0.8964102564102564,
+                "6": 0.9727969065186779,
+                "7": 0.6886917307975099,
+                "8": 0.9517159272561885,
+                "9": 0.9106341568903066,
+                "10": 0.910892077710895,
+                "11": 0.7726833976833977,
+                "12": 0.6913720586563601
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0264.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0264.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9661682567041626,
+                "2": 0.9515505010111256,
+                "3": 0.9521559807379998,
+                "4": 0.9232476912147762,
+                "5": 0.9027450480861091,
+                "6": 0.9728492639123933,
+                "7": 0.9397851166512369,
+                "8": 0.9461992744838817,
+                "9": 0.9021240543027158,
+                "10": 0.8615027434888539,
+                "11": 0.7425758818703856,
+                "12": 0.7505544531341193
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0282.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0282.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9690757800696745,
+                "2": 0.11316307661980643,
+                "3": 0.5682946893757046,
+                "4": 0.7182754004523842,
+                "5": 0.8602072101849847,
+                "6": 0.9748352361742264,
+                "7": 0.9613948024286075,
+                "8": 0.9406288693878345,
+                "9": 0.8658570288030462,
+                "10": 0.9075840265635211,
+                "11": 0.7777364802081398,
+                "12": 0.8196652719665272
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0320.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0320.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9769405096303145,
+                "2": 0.9720080839117354,
+                "3": 0.9726256221449513,
+                "4": 0.9394356005788712,
+                "5": 0.7713977832512315,
+                "6": 0.9856799780430905,
+                "7": 0.9456156516721116,
+                "8": 0.9511741219462678,
+                "9": 0.9375709421112373,
+                "10": 0.8914839505801267,
+                "11": 0.8147123893805309,
+                "12": 0.8521215164448908
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0328.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0328.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9677957476386113,
+                "2": 0.9531898596560585,
+                "3": 0.9563998151988224,
+                "4": 0.8949558268264965,
+                "5": 0.9036182818451122,
+                "6": 0.9743248070736021,
+                "7": 0.9639722831574915,
+                "8": 0.9399964413045914,
+                "9": 0.9333026448778633,
+                "10": 0.893841569406506,
+                "11": 0.7682677567705672,
+                "12": 0.8077183480027081
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0332.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0332.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9692434907980664,
+                "2": 0.9593896399411056,
+                "3": 0.9614088193097794,
+                "4": 0.9196119540883408,
+                "5": 0.789289264818527,
+                "6": 0.9768021874807857,
+                "7": 0.960009155125524,
+                "8": 0.9464704804613546,
+                "9": 0.8953431513547719,
+                "10": 0.8793921956482647,
+                "11": 0.738574473123372,
+                "12": 0.8234477286252727
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0348.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0348.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.8812628092419972,
+                "2": 0.9587913398436702,
+                "3": 0.9649332865865357,
+                "4": 0.9304096238769606,
+                "5": 0.7762708649468892,
+                "6": 0.7392305063896671,
+                "7": 0.635410197683835,
+                "8": 0.947071426682067,
+                "9": 0.9138460877226914,
+                "10": 0.8797908859005449,
+                "11": 0.8103448275862069,
+                "12": 0.7707876539045371
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0349.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0349.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9605145165403822,
+                "2": 0.9659413946777905,
+                "3": 0.96178546786264,
+                "4": 0.8391018452441635,
+                "5": 0.7903154285038578,
+                "6": 0.8615212124852344,
+                "7": 0.7197890952938901,
+                "8": 0.9184404772122564,
+                "9": 0.8198660055901231,
+                "10": 0.8928901641957596,
+                "11": 0.6960955320005366,
+                "12": 0.6499440805240454
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0350.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0350.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9656435602442165,
+                "2": 0.8469991103291782,
+                "3": 0.8864510497551542,
+                "4": 0.9082946725274011,
+                "5": 0.8733219324497649,
+                "6": 0.9684357992468968,
+                "7": 0.9425245470731743,
+                "8": 0.9018825395500272,
+                "9": 0.8761868697493724,
+                "10": 0.8488034209056123,
+                "11": 0.8176673388408249,
+                "12": 0.6999222999222999
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0351.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0351.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9718329561818556,
+                "2": 0.9568213586804585,
+                "3": 0.9742198100407056,
+                "4": 0.1429599976960516,
+                "5": 0.7526107942079859,
+                "6": 0.9686606071516658,
+                "7": 0.9697782866712231,
+                "8": 0.941069143342245,
+                "9": 0.9274959732953617,
+                "10": 0.8766323799696901,
+                "11": 0.6496694995278565,
+                "12": 0.834375
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0352.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0352.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.945900780437174,
+                "2": 0.9062871115156445,
+                "3": 0.9466909896939769,
+                "4": 0.8976737611867017,
+                "5": 0.8158589726660505,
+                "6": 0.9703541407485532,
+                "7": 0.8571960923917135,
+                "8": 0.9291698296437633,
+                "9": 0.8928756588611423,
+                "10": 0.8588450696038827,
+                "11": 0.6331501681292545,
+                "12": 0.7700434637245068
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0358.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0358.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9774148492345331,
+                "2": 0.9627441836364579,
+                "3": 0.9618233512520697,
+                "4": 0.9278931273136971,
+                "5": 0.8360795152545977,
+                "6": 0.9809617723837897,
+                "7": 0.9616898248644183,
+                "8": 0.9476251545825127,
+                "9": 0.8911648189663115,
+                "10": 0.90506578682654,
+                "11": 0.7304189435336976,
+                "12": 0.7787798408488064
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0361.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0361.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9699814611122299,
+                "2": 0.9578693441126613,
+                "3": 0.9627221233871133,
+                "4": 0.9257439257439257,
+                "5": 0.9165944165077163,
+                "6": 0.9791893638629858,
+                "7": 0.9577024086441059,
+                "8": 0.9401599174619552,
+                "9": 0.8979894550897396,
+                "10": 0.8988273649892202,
+                "11": 0.8051724137931034,
+                "12": 0.7479059713590921
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0365.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0365.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9662743596461175,
+                "2": 0.9558811539291624,
+                "3": 0.9607293191178936,
+                "4": 0.9577560292023597,
+                "5": 0.8868778280542986,
+                "6": 0.9829022690670196,
+                "7": 0.9349348381678559,
+                "8": 0.9540049251506707,
+                "9": 0.867691713134213,
+                "10": 0.8580756278758901,
+                "11": 0.749034749034749,
+                "12": 0.7519934573706808
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0372.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0372.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9601978881949305,
+                "2": 0.9510130522636666,
+                "3": 0.9285135634679063,
+                "4": 0.883654786241223,
+                "5": 0.8760060197605182,
+                "6": 0.9774829242785712,
+                "7": 0.9407789705180247,
+                "8": 0.9265658909489588,
+                "9": 0.8641247969309663,
+                "10": 0.8645115897275535,
+                "11": 0.7727075184702303,
+                "12": 0.786643801069303
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0377.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0377.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.8435942296900274,
+                "2": 0.9503599597692023,
+                "3": 0.9656406645309791,
+                "4": 0.9192979015493234,
+                "5": 0.7246780368952315,
+                "6": 0.9706502482405357,
+                "7": 0.8755639564563529,
+                "8": 0.9227256148808297,
+                "9": 0.8781264211005002,
+                "10": 0.8886985011674324,
+                "11": 0.798155737704918,
+                "12": 0.7430333214751571
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0384.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0384.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.977389250752295,
+                "2": 0.9620172268101997,
+                "3": 0.9690618186339596,
+                "4": 0.9495910435640118,
+                "5": 0.9033280507131537,
+                "6": 0.9823436268293518,
+                "7": 0.7486467898898546,
+                "8": 0.9456992865796204,
+                "9": 0.9075056108363622,
+                "10": 0.8444206152402653,
+                "11": 0.8134942402633023,
+                "12": 0.7958750379132544
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0396.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0396.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9602165601070161,
+                "2": 0.9587091416576319,
+                "3": 0.9667266612987259,
+                "4": 0.9442546129063751,
+                "5": 0.8531172948221205,
+                "6": 0.9822124752892168,
+                "7": 0.9636490244746432,
+                "8": 0.9391322020119907,
+                "9": 0.9094243792325056,
+                "10": 0.9069190939805282,
+                "11": 0.7309201918883559,
+                "12": 0.8169306673591274
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0398.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0398.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9686541036803197,
+                "2": 0.9507723928947165,
+                "3": 0.9595927568398696,
+                "4": 0.8846383296047725,
+                "5": 0.8131997642899234,
+                "6": 0.9731986249821514,
+                "7": 0.9044855420455706,
+                "8": 0.9112377982426221,
+                "9": 0.9323352194014655,
+                "10": 0.8965933217525575,
+                "11": 0.7607917958502266,
+                "12": 0.7861796643632774
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0400.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0400.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9744981268173621,
+                "2": 0.9643256312584111,
+                "3": 0.9649978891951625,
+                "4": 0.9296117762919194,
+                "5": 0.8518480173931049,
+                "6": 0.9835699567372608,
+                "7": 0.9587472956793883,
+                "8": 0.9401861174164692,
+                "9": 0.9078450090886503,
+                "10": 0.897690364489354,
+                "11": 0.7724202189610995,
+                "12": 0.7795371498172959
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0401.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0401.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9738294367072083,
+                "2": 0.9609630135945926,
+                "3": 0.9317371105811673,
+                "4": 0.926626246017881,
+                "5": 0.8002203452074917,
+                "6": 0.9811513959590613,
+                "7": 0.9601585215166502,
+                "8": 0.9454568694762983,
+                "9": 0.917856539581284,
+                "10": 0.9234795734527925,
+                "11": 0.8218717139852787,
+                "12": 0.6731263595016809
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0405.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0405.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9677734375,
+                "2": 0.9597928923083636,
+                "3": 0.9649038363760856,
+                "4": 0.941753854408307,
+                "5": 0.7534703918467756,
+                "6": 0.9806930186435354,
+                "7": 0.8821370145125665,
+                "8": 0.9254501590853467,
+                "9": 0.9099482002922035,
+                "10": 0.8695701539422267,
+                "11": 0.8420587585597525,
+                "12": 0.6550595238095238
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/amos_0408.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/amos_0408.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9356554936365393,
+                "2": 0.07532512043260535,
+                "3": 0.05696183735088848,
+                "4": 0.8925536774783006,
+                "5": 0.790594216714331,
+                "6": 0.9677020113600996,
+                "7": 0.9089227710411634,
+                "8": 0.9001248860836399,
+                "9": 0.8969363151218732,
+                "10": 0.8893537191633055,
+                "11": 0.7355235168990782,
+                "12": 0.7501413227812324
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/img0008.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/img0008.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9666006523277382,
+                "2": 0.953794139744553,
+                "3": 0.9495046222975213,
+                "4": 0.911769991015274,
+                "5": 0.8688438240716355,
+                "6": 0.9662517984887664,
+                "7": 0.9606353496568948,
+                "8": 0.9301466774548246,
+                "9": 0.9133497297930365,
+                "10": 0.8677187948350071,
+                "11": 0.6961887477313975,
+                "12": 0.7313691507798961
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/img0022.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/img0022.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9670886481892743,
+                "2": 0.9433592880978865,
+                "3": 0.9500504595618157,
+                "4": 0.947063230934619,
+                "5": 0.8014046984742068,
+                "6": 0.9768408111779102,
+                "7": 0.9317169066634442,
+                "8": 0.9399276129943502,
+                "9": 0.8949468085106383,
+                "10": 0.8256475323766188,
+                "11": 0.5915146546423448,
+                "12": 0.8688679245283019
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/img0025.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/img0025.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9624995034362214,
+                "2": 0.9485242072480181,
+                "3": 0.947307592291171,
+                "4": 0.863171458484336,
+                "5": 0.8830476190476191,
+                "6": 0.9785904727031388,
+                "7": 0.9504998479549946,
+                "8": 0.9388066309213439,
+                "9": 0.9238256820517902,
+                "10": 0.7167335137969643,
+                "11": 0.8064516129032258,
+                "12": 0.8202557031837553
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/img0029.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/img0029.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9555295426624325,
+                "2": 0.9361556280433035,
+                "3": 0.9415983491018166,
+                "4": 0.6123367852318775,
+                "5": 0.7774127674687028,
+                "6": 0.9700718662085844,
+                "7": 0.9491250834990518,
+                "8": 0.9138707753070167,
+                "9": 0.8236166598885194,
+                "10": 0.8633288227334236,
+                "11": 0.7326860841423948,
+                "12": 0.6549872845436564
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/img0038.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/img0038.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9741951198975143,
+                "2": 0.8033315488714315,
+                "3": 0.9493930473323852,
+                "4": 0.8247652173913044,
+                "5": 0.9023444385686585,
+                "6": 0.9829051374306406,
+                "7": 0.8856482199714841,
+                "8": 0.9785618192075685,
+                "9": 0.9304157549234136,
+                "10": 0.9009764252659124,
+                "11": 0.8710959681998864,
+                "12": 0.3308714918759232
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0004.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0004.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9925768116906893,
+                "2": 0.9845169939452546,
+                "3": 0.9838295812152021,
+                "4": 0.972101673899566,
+                "5": 0.9256589564281872,
+                "6": 0.9925015180850307,
+                "7": 0.9742890904932531,
+                "8": 0.9836988345516707,
+                "9": 0.8524441886280475,
+                "10": 0.949378984531762,
+                "11": 0.9393139841688655,
+                "12": 0.8699238578680203
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0030.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0030.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9662034086300089,
+                "2": 0.9825069217216209,
+                "3": 0.9857871064467766,
+                "4": 0.8687459389213775,
+                "5": 0.9239027470792548,
+                "6": 0.9819838030358373,
+                "7": 0.9658778925349719,
+                "8": 0.9847965190683389,
+                "9": 0.963268942615316,
+                "10": 0.9336261103902586,
+                "11": 0.7933884297520661,
+                "12": 0.9214943151055766
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0039.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0039.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9755950197440821,
+                "2": 0.985847149211484,
+                "3": 0.9848694413009765,
+                "4": 0.9432553509208561,
+                "5": 0.7893864013266998,
+                "6": 0.9883512049056591,
+                "7": 0.9531464770214546,
+                "8": 0.969521044992743,
+                "9": 0.9465243629861422,
+                "10": 0.8108052163113227,
+                "11": 0.8633093525179856,
+                "12": 0.7890847072200113
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0070.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0070.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9784191735303475,
+                "2": 0.9778906418845904,
+                "3": 0.985145604431496,
+                "4": 0,
+                "5": 0.9231990474300457,
+                "6": 0.9920348348654223,
+                "7": 0.9622434017595308,
+                "8": 0.9788002166108426,
+                "9": 0.9712056799754569,
+                "10": 0.9431945434185076,
+                "11": 0.9272388059701493,
+                "12": 0.9255198487712666
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0077.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0077.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9866134843510409,
+                "2": 0.9828605553896685,
+                "3": 0.9848110809791928,
+                "4": 0.959678272833104,
+                "5": 0.9091541942220676,
+                "6": 0.988704318936877,
+                "7": 0.9809857595142861,
+                "8": 0.97348909544649,
+                "9": 0.9589220875803841,
+                "10": 0.9563313217732284,
+                "11": 0.871578947368421,
+                "12": 0.8280487804878048
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0082.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0082.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9916342516118719,
+                "2": 0.9866255540566583,
+                "3": 0.9878736122971818,
+                "4": 0.9569252496721476,
+                "5": 0.9464937170652614,
+                "6": 0.9907703431213598,
+                "7": 0.9658439373397147,
+                "8": 0.979339926128917,
+                "9": 0.9347641909065236,
+                "10": 0.9399897167201234,
+                "11": 0.9087221095334685,
+                "12": 0.9312416555407209
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0089.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0089.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9875366790694861,
+                "2": 0.9843865730453589,
+                "3": 0.98576342294819,
+                "4": 0.9482253337675024,
+                "5": 0.9358081979891725,
+                "6": 0.9873522840959523,
+                "7": 0.9601114147572,
+                "8": 0.9782361908468749,
+                "9": 0.9591074858117002,
+                "10": 0.9142608758648169,
+                "11": 0.9073482428115016,
+                "12": 0.8425287356321839
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0090.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0090.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9897889145837954,
+                "2": 0.9791249642550758,
+                "3": 0.9642074506939372,
+                "4": 0.9085926557456915,
+                "5": 0.915,
+                "6": 0.983582497797946,
+                "7": 0.9495674003675976,
+                "8": 0.9760502881089576,
+                "9": 0.9717714497803988,
+                "10": 0.8589046727264422,
+                "11": 0.9219858156028369,
+                "12": 0.7844849730285127
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0107.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0107.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.988021654801995,
+                "2": 0.9597689474567439,
+                "3": 0.8748331932980774,
+                "4": 0.9313467048710602,
+                "5": 0.9488675360329444,
+                "6": 0.9890128411551488,
+                "7": 0.9853070082863805,
+                "8": 0.981951964459253,
+                "9": 0.9412584252739391,
+                "10": 0.9588211867781761,
+                "11": 0.9097252507631923,
+                "12": 0.9081044421837912
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0119.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0119.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9903607255608899,
+                "2": 0.9852271400210206,
+                "3": 0.9830465466656094,
+                "4": 0.9482644749394584,
+                "5": 0.9329216952006736,
+                "6": 0.9907117316757617,
+                "7": 0.9775561097256857,
+                "8": 0.9786124441732087,
+                "9": 0.9624079194545877,
+                "10": 0.9306042660840568,
+                "11": 0.9230769230769231,
+                "12": 0.7988190636862084
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0137.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0137.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.971614461800313,
+                "2": 0.9838908488120033,
+                "3": 0.9831872366765839,
+                "4": 0.9594804843401205,
+                "5": 0.8797364085667215,
+                "6": 0.98759560829553,
+                "7": 0.9423188119649683,
+                "8": 0.9701744513224536,
+                "9": 0.8984999452534764,
+                "10": 0.9143789735220325,
+                "11": 0.7241003271537623,
+                "12": 0.7670901391409558
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0139.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0139.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9861929018097486,
+                "2": 0.9825273340962198,
+                "3": 0.9840947474186031,
+                "4": 0.9420614828209765,
+                "5": 0.9502945508100147,
+                "6": 0.9891694661647328,
+                "7": 0.9720613634054658,
+                "8": 0.9790406800242866,
+                "9": 0.9130607383882493,
+                "10": 0.9367957644047088,
+                "11": 0.8710033076074972,
+                "12": 0.9335270613875772
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0158.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0158.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9808235631321058,
+                "2": 0.987408681200734,
+                "3": 0.9884132867214629,
+                "4": 0.9585750754235322,
+                "5": 0.9362826015186531,
+                "6": 0.9919616866703795,
+                "7": 0.9720838424663972,
+                "8": 0.9851999354179,
+                "9": 0.964236849306418,
+                "10": 0.9361067534328821,
+                "11": 0.8937875751503006,
+                "12": 0.8543417366946778
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0168.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0168.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.976077432968646,
+                "2": 0.9819399809894537,
+                "3": 0.9783502922710543,
+                "4": 0.578008672175407,
+                "5": 0.6584229049747932,
+                "6": 0.9826814976187258,
+                "7": 0.9787346651421267,
+                "8": 0.9727401427753848,
+                "9": 0.8587108576347788,
+                "10": 0.8391727909759016,
+                "11": 0.8286852589641435,
+                "12": 0.8934495361259488
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0206.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0206.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9737576395392622,
+                "2": 0.9878612790005195,
+                "3": 0.9805217125615857,
+                "4": 0.866577896138482,
+                "5": 0.8929342795433508,
+                "6": 0.9873947576116684,
+                "7": 0.9617661390313446,
+                "8": 0.975596268863051,
+                "9": 0.9602452269673977,
+                "10": 0.9580808845804302,
+                "11": 0.8752337697034465,
+                "12": 0.9249294449670743
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0212.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0212.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9773645475642663,
+                "2": 0.9871670968767968,
+                "3": 0.9829870886321717,
+                "4": 0.25396825396825395,
+                "5": 0.9337539432176656,
+                "6": 0.9895169027186068,
+                "7": 0.9336915562956541,
+                "8": 0.9685071912712845,
+                "9": 0.9427348837209303,
+                "10": 0.9072237710413946,
+                "11": 0.8904968644476604,
+                "12": 0.8348348348348348
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0235.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0235.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9887945920129322,
+                "2": 0.9797434261818697,
+                "3": 0.9800942973219017,
+                "4": 0.8868184955141477,
+                "5": 0.9043026706231454,
+                "6": 0.9848074927263131,
+                "7": 0.9381430819513377,
+                "8": 0.9721360704967262,
+                "9": 0.9482735869804266,
+                "10": 0.8634825923656801,
+                "11": 0.9096989966555183,
+                "12": 0.8980563268544228
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0248.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0248.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.977270448240131,
+                "2": 0.9262676181421153,
+                "3": 0.9376805371223359,
+                "4": 0.9483350754068987,
+                "5": 0.9265522137601653,
+                "6": 0.9899611690722021,
+                "7": 0.9844533389509164,
+                "8": 0.9855216411353478,
+                "9": 0.96632018253798,
+                "10": 0.9260985766672882,
+                "11": 0.9383860414394766,
+                "12": 0.9397189349112426
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0293.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0293.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9887553970339779,
+                "2": 0.9875594214625265,
+                "3": 0.9876276326697658,
+                "4": 0.7793078055964654,
+                "5": 0.9236704326260677,
+                "6": 0.9857502837867212,
+                "7": 0.9216558373771819,
+                "8": 0.9605697107667163,
+                "9": 0.9204658300984021,
+                "10": 0.9166034874905231,
+                "11": 0.9237002025658338,
+                "12": 0.8296362023070097
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0325.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0325.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9833997224274977,
+                "2": 0.9883613597142513,
+                "3": 0.98309168961607,
+                "4": 0.06067604450976275,
+                "5": 0.8664101154480484,
+                "6": 0.9672293304099101,
+                "7": 0.9701110953898097,
+                "8": 0.9805843906189927,
+                "9": 0.9260662981382536,
+                "10": 0.9426635514018692,
+                "11": 0.8832535885167464,
+                "12": 0.9251290877796902
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0341.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0341.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9913492216440761,
+                "2": 0.9793301646954792,
+                "3": 0.975609756097561,
+                "4": 0,
+                "5": 0.9349078341013825,
+                "6": 0.9881557547667287,
+                "7": 0.9765515813447901,
+                "8": 0.9860375541646605,
+                "9": 0.8831551509198746,
+                "10": 0.9287912325217298,
+                "11": 0.8997395833333334,
+                "12": 0.9079524107701941
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0354.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0354.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9769647945583234,
+                "2": 0.9867597885880703,
+                "3": 0.9819916225884368,
+                "4": 0.5319226559649762,
+                "5": 0.8750372800477184,
+                "6": 0.9886252460956844,
+                "7": 0.9561931387414708,
+                "8": 0.9851090342679127,
+                "9": 0.9202278067625155,
+                "10": 0.8957069420645579,
+                "11": 0.8768161718256475,
+                "12": 0.9104829210836278
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0412.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0412.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9851989448416838,
+                "2": 0.9798509753579103,
+                "3": 0.9793648347645798,
+                "4": 0.96674039815001,
+                "5": 0.9141515761234071,
+                "6": 0.9883427887814412,
+                "7": 0.9740473897982448,
+                "8": 0.9684851694915254,
+                "9": 0.9595411427310832,
+                "10": 0.8969969450688801,
+                "11": 0.8906732550957381,
+                "12": 0.9077720207253887
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0429.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0429.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9900459136822773,
+                "2": 0.986797796116426,
+                "3": 0.9863283482358733,
+                "4": 0.9402173913043478,
+                "5": 0.9352568613652358,
+                "6": 0.9921849723103436,
+                "7": 0.9765927563261265,
+                "8": 0.9714668822589868,
+                "9": 0.9597938144329897,
+                "10": 0.903848316502103,
+                "11": 0.9241819632881085,
+                "12": 0.8634992458521871
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0441.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0441.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.29984051036682613,
+                "2": 0.9850988342625443,
+                "3": 0.9869199296177736,
+                "4": 0.9610971172684019,
+                "5": 0.9508251375229205,
+                "6": 0.9914494372232652,
+                "7": 0.970533090435222,
+                "8": 0.9861874350215357,
+                "9": 0.9648650851879025,
+                "10": 0.93421875,
+                "11": 0.9130661114003124,
+                "12": 0.9092592592592592
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0476.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0476.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9503054880182306,
+                "2": 0.9562414507631675,
+                "3": 0.9655561053383913,
+                "4": 0.8653905526397037,
+                "5": 0.9019415089702629,
+                "6": 0.9818564553580934,
+                "7": 0.8314896739959512,
+                "8": 0.8930758360810175,
+                "9": 0.9466319391246617,
+                "10": 0.850075202406477,
+                "11": 0.8758716875871687,
+                "12": 0.805683836589698
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0477.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0477.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9863449318366319,
+                "2": 0.977493425045519,
+                "3": 0.9712220214097039,
+                "4": 0.9058225869480265,
+                "5": 0.930949105914718,
+                "6": 0.9880306844138449,
+                "7": 0.9721433995443827,
+                "8": 0.9831664872987187,
+                "9": 0.8908899319858224,
+                "10": 0.9485874310188617,
+                "11": 0.8220491312162972,
+                "12": 0.8884369552585706
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0486.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0486.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9899124988787135,
+                "2": 0.9556767409068515,
+                "3": 0.9854463775435612,
+                "4": 0.9071953830401192,
+                "5": 0.945288197621226,
+                "6": 0.9907678131589672,
+                "7": 0.9730591210574032,
+                "8": 0.9829334180835849,
+                "9": 0.9569713538571258,
+                "10": 0.9571726656233699,
+                "11": 0.8561236623067776,
+                "12": 0.93007769145394
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0499.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0499.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9884823317401865,
+                "2": 0.9668987381115186,
+                "3": 0.9626146612194558,
+                "4": 0.8660968660968661,
+                "5": 0.617169373549884,
+                "6": 0.9858577448978457,
+                "7": 0.9464252724921486,
+                "8": 0.9409588572406125,
+                "9": 0.9417246357789736,
+                "10": 0.8417006851440713,
+                "11": 0.8194147037830122,
+                "12": 0.8150759219088937
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0516.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0516.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9899011907226041,
+                "2": 0.9791379706152433,
+                "3": 0.9773160907356371,
+                "4": 0.9836028835020356,
+                "5": 0.9291628334866605,
+                "6": 0.992274636320808,
+                "7": 0.9760035224187276,
+                "8": 0.9773025983217066,
+                "9": 0.9729639333296171,
+                "10": 0.9168531386173595,
+                "11": 0.8721071863580999,
+                "12": 0.8595641646489104
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0561.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0561.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9823380229292659,
+                "2": 0.9881960838772392,
+                "3": 0.9814700927832295,
+                "4": 0.9525507405375754,
+                "5": 0.5314550366653802,
+                "6": 0.9822562815337823,
+                "7": 0.8113990666269487,
+                "8": 0.9378006441627975,
+                "9": 0.9768165296833557,
+                "10": 0.9046341027017355,
+                "11": 0.9222797927461139,
+                "12": 0.8925214548426645
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0566.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0566.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9904049276200217,
+                "2": 0.987558502755893,
+                "3": 0.9832899326408441,
+                "4": 0.9391979301423027,
+                "5": 0.9438275636838668,
+                "6": 0.9916404141623749,
+                "7": 0.9776655367990066,
+                "8": 0.9731822341099458,
+                "9": 0.9642237923898656,
+                "10": 0.9447559165138416,
+                "11": 0.9444654325651681,
+                "12": 0.9146005509641874
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0574.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0574.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9766351854889738,
+                "2": 0.9374903935965192,
+                "3": 0.9628399858707171,
+                "4": 0.9235017950842309,
+                "5": 0.8988313856427379,
+                "6": 0.9805273828368559,
+                "7": 0.9635051824740877,
+                "8": 0.9827187127800625,
+                "9": 0.9202607823470411,
+                "10": 0.908307173312093,
+                "11": 0.8482412060301507,
+                "12": 0.8678616090037515
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0591.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0591.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9895962943987285,
+                "2": 0.9873337786143663,
+                "3": 0.9843778582665642,
+                "4": 0.9826143713285469,
+                "5": 0.9014727235013482,
+                "6": 0.9915932952156212,
+                "7": 0.978226738669105,
+                "8": 0.9802868758149881,
+                "9": 0.9581714075470831,
+                "10": 0.95644155939955,
+                "11": 0.9164461247637051,
+                "12": 0.9114977307110439
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0602.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0602.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9911695983330467,
+                "2": 0.9864487088367685,
+                "3": 0.9886101683381393,
+                "4": 0.9423708569722306,
+                "5": 0.9425416854438936,
+                "6": 0.991975965951765,
+                "7": 0.9817278807459049,
+                "8": 0.8934849779764644,
+                "9": 0.9578040863806075,
+                "10": 0.9337727172122077,
+                "11": 0.9539007092198581,
+                "12": 0.9294417682062908
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0607.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0607.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9926208141167034,
+                "2": 0.9882958927752757,
+                "3": 0.9890137122088221,
+                "4": 0.9402631011429804,
+                "5": 0.9419233482247825,
+                "6": 0.9914917449828093,
+                "7": 0.960515875514805,
+                "8": 0.9777931850160076,
+                "9": 0.9636915641748505,
+                "10": 0.9322115384615385,
+                "11": 0.9263542300669507,
+                "12": 0.8682266009852216
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0613.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0613.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9851713799530022,
+                "2": 0.9831916317172278,
+                "3": 0.9805774444673463,
+                "4": 0.9361196865352648,
+                "5": 0.9489414694894147,
+                "6": 0.9875466787563185,
+                "7": 0.944844202254095,
+                "8": 0.9772187340912948,
+                "9": 0.955408046255471,
+                "10": 0.9213673148931031,
+                "11": 0.8917141604559404,
+                "12": 0.8460648148148148
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0639.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0639.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9358039267962903,
+                "2": 0.9659621079962676,
+                "3": 0.9604333195731852,
+                "4": 0.8680125355294803,
+                "5": 0.6775456919060052,
+                "6": 0.9731555085824394,
+                "7": 0.9266713789055878,
+                "8": 0.9376735683903399,
+                "9": 0.9522878919009464,
+                "10": 0.9057871908092688,
+                "11": 0.7118367346938775,
+                "12": 0.7603305785123967
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0649.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0649.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9907181514820111,
+                "2": 0.9898375855822664,
+                "3": 0.9876531591726111,
+                "4": 0.9033742331288344,
+                "5": 0.9422735346358793,
+                "6": 0.9908951448147684,
+                "7": 0.9818375064593414,
+                "8": 0.9825279825279826,
+                "9": 0.9569502074688797,
+                "10": 0.9601446156494792,
+                "11": 0.9506263817243921,
+                "12": 0.9220151828847482
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0662.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0662.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.984791140036032,
+                "2": 0.9831853785900784,
+                "3": 0.9697959885633209,
+                "4": 0,
+                "5": 0.908855961405927,
+                "6": 0.9860507109779778,
+                "7": 0.9492612341734984,
+                "8": 0.9281108192022928,
+                "9": 0.9232196865548529,
+                "10": 0.9060797093706593,
+                "11": 0.9286871961102107,
+                "12": 0.9107142857142857
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0664.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0664.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9671444643526813,
+                "2": 0.9667745583590064,
+                "3": 0.9666504849922603,
+                "4": 0.9649546827794562,
+                "5": 0.9382824511311223,
+                "6": 0.9830155297817967,
+                "7": 0.977123943396424,
+                "8": 0.9780524469684316,
+                "9": 0.9493732776246777,
+                "10": 0.9445211634992657,
+                "11": 0.8312412831241283,
+                "12": 0.9296034429757147
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0683.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0683.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9892421979777996,
+                "2": 0.9879917328705601,
+                "3": 0.9877986734873223,
+                "4": 0.9566830535200816,
+                "5": 0.934902850659481,
+                "6": 0.9924274658936787,
+                "7": 0.979301196101433,
+                "8": 0.9814205425699133,
+                "9": 0.9808099151891861,
+                "10": 0.9547485626955826,
+                "11": 0.9631205673758865,
+                "12": 0.9616677874915938
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0686.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0686.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9740289567486128,
+                "2": 0.9638085574158634,
+                "3": 0.9641134367116173,
+                "4": 0.4034134988363072,
+                "5": 0.896195396899953,
+                "6": 0.973521339269318,
+                "7": 0.9641001546802208,
+                "8": 0.9652223348246286,
+                "9": 0.9427282469207668,
+                "10": 0.899559521333913,
+                "11": 0.8466846684668466,
+                "12": 0.8343868520859671
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0720.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0720.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9863165387961718,
+                "2": 0.9723041997729852,
+                "3": 0.9852634932917601,
+                "4": 0.9388022253736228,
+                "5": 0.7807130980971735,
+                "6": 0.9884098837481178,
+                "7": 0.9608883693746347,
+                "8": 0.958474633368518,
+                "9": 0.9255276782158502,
+                "10": 0.882351111802208,
+                "11": 0.7758559830568302,
+                "12": 0.8694826767916469
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0723.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0723.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9908255108119858,
+                "2": 0.9899542119014564,
+                "3": 0.9880684669280949,
+                "4": 0.9650852970691027,
+                "5": 0.6797274275979557,
+                "6": 0.993235465488084,
+                "7": 0.8008447017448069,
+                "8": 0.9809033790135061,
+                "9": 0.9759229534510433,
+                "10": 0.9065621564785165,
+                "11": 0.9545454545454546,
+                "12": 0.8972860125260961
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0733.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0733.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9889798161322422,
+                "2": 0.9815901345606577,
+                "3": 0.9845840762151746,
+                "4": 0.8518114865088015,
+                "5": 0.8871434477056634,
+                "6": 0.9867313204534138,
+                "7": 0.9636781345948771,
+                "8": 0.9578762329502913,
+                "9": 0.9347399305330831,
+                "10": 0.9305325099642484,
+                "11": 0.8883538970809509,
+                "12": 0.9004931824775166
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0746.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0746.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.989909427998298,
+                "2": 0.9879119703585565,
+                "3": 0.9855904984620162,
+                "4": 0.9593681606242268,
+                "5": 0.9542594385285575,
+                "6": 0.9913630602881253,
+                "7": 0.9783585907503712,
+                "8": 0.9759108416998169,
+                "9": 0.9758583690987125,
+                "10": 0.9603536030002678,
+                "11": 0.9443261332522057,
+                "12": 0.9557956777996071
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0749.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0749.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9834310476676014,
+                "2": 0.9867585295644378,
+                "3": 0.9882601611695804,
+                "4": 0.940424154120123,
+                "5": 0.8940248027057497,
+                "6": 0.9837161620782893,
+                "7": 0.9338056092232703,
+                "8": 0.9822053675612602,
+                "9": 0.9648629655657063,
+                "10": 0.9274246791517045,
+                "11": 0.9035486806187443,
+                "12": 0.8845714285714286
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0760.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0760.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9868031854379977,
+                "2": 0.9643840330350998,
+                "3": 0.9497169497169498,
+                "4": 0,
+                "5": 0.9304572907679034,
+                "6": 0.9820196191575303,
+                "7": 0.9519521958577478,
+                "8": 0.9837412648804298,
+                "9": 0.93133294864397,
+                "10": 0.8523711989916496,
+                "11": 0.8285880302149913,
+                "12": 0.8736462093862816
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0775.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0775.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.949955846811675,
+                "2": 0.9838555140366005,
+                "3": 0.9823118773755993,
+                "4": 0.9662906348040852,
+                "5": 0.8476327116212339,
+                "6": 0.9892718415069828,
+                "7": 0.9626277296540277,
+                "8": 0.9678938141748059,
+                "9": 0.9418144447116962,
+                "10": 0.8978336599172654,
+                "11": 0.8900949796472184,
+                "12": 0.8262548262548263
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0896.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0896.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9901790946322844,
+                "2": 0.9866622600977314,
+                "3": 0.9805275441454929,
+                "4": 0.9715584532105153,
+                "5": 0.9209032420840166,
+                "6": 0.9860088238547218,
+                "7": 0.8845312356897903,
+                "8": 0.9715584415584415,
+                "9": 0.9722553254878594,
+                "10": 0.9060329616698577,
+                "11": 0.9618837879044554,
+                "12": 0.8730913642052566
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0904.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0904.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9829823697184702,
+                "2": 0.969687325960697,
+                "3": 0.9664979560054506,
+                "4": 0.9361362426822778,
+                "5": 0.919833729216152,
+                "6": 0.9827524785953218,
+                "7": 0.9096034679928725,
+                "8": 0.9431144035896046,
+                "9": 0.9335740785149031,
+                "10": 0.8476293570036805,
+                "11": 0.80836820083682,
+                "12": 0.8814256339958876
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0912.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0912.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9854114546334332,
+                "2": 0.9825766338924233,
+                "3": 0.984597658670203,
+                "4": 0.8737270875763747,
+                "5": 0.9460431654676259,
+                "6": 0.9884050061469155,
+                "7": 0.9791160809371672,
+                "8": 0.9764813126709206,
+                "9": 0.9433760424011086,
+                "10": 0.9381013870954305,
+                "11": 0.8926746166950597,
+                "12": 0.8742469879518072
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0923.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0923.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.989271872380235,
+                "2": 0.987389410747075,
+                "3": 0.8125184598844559,
+                "4": 0.9364961030159268,
+                "5": 0.9312749784499648,
+                "6": 0.9914277735839793,
+                "7": 0.9685654541694433,
+                "8": 0.9357869399798121,
+                "9": 0.9501888712739515,
+                "10": 0.9600867678958785,
+                "11": 0.8676365370856189,
+                "12": 0.9261515963928832
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0924.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0924.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9696591281893897,
+                "2": 0.9732114902943018,
+                "3": 0.9527865013040933,
+                "4": 0.7447898872565767,
+                "5": 0.8856593289164352,
+                "6": 0.9783195414389284,
+                "7": 0.9648792548782715,
+                "8": 0.9690415287390912,
+                "9": 0.9494489046128725,
+                "10": 0.8780056330159912,
+                "11": 0.8282685512367491,
+                "12": 0.8520642201834863
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0928.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0928.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9656415018502862,
+                "2": 0.9856416736065244,
+                "3": 0.9866617314632438,
+                "4": 0.82560706401766,
+                "5": 0.8804173354735152,
+                "6": 0.9872784628620591,
+                "7": 0.9758805085691672,
+                "8": 0.9836274877957191,
+                "9": 0.9579213889558718,
+                "10": 0.9354131573482244,
+                "11": 0.8746101060511541,
+                "12": 0.9150268336314848
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0959.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0959.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9894206887292744,
+                "2": 0.9826316554430502,
+                "3": 0.9842367437897359,
+                "4": 0.7708128409192524,
+                "5": 0.9503033432296373,
+                "6": 0.9928481155033845,
+                "7": 0.8379978354192241,
+                "8": 0.9839456955069497,
+                "9": 0.9630234788477249,
+                "10": 0.9490438294334244,
+                "11": 0.9255014326647565,
+                "12": 0.924074074074074
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s0983.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s0983.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9898212898212898,
+                "2": 0.988389441683587,
+                "3": 0.9909913844877101,
+                "4": 0.9780338983050847,
+                "5": 0.9480916030534351,
+                "6": 0.9923370069412164,
+                "7": 0.9835302827710993,
+                "8": 0.9835541883577852,
+                "9": 0.966614644506299,
+                "10": 0.9537190735910205,
+                "11": 0.8771031455742502,
+                "12": 0.9077720207253887
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s1012.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s1012.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9866345138462024,
+                "2": 0.9697920505396157,
+                "3": 0.8940803582692065,
+                "4": 0.9741664826672555,
+                "5": 0.9547948784949046,
+                "6": 0.9912984412984412,
+                "7": 0.9632477208350194,
+                "8": 0.974718309859155,
+                "9": 0.9218385120470343,
+                "10": 0.9297159103431556,
+                "11": 0.8909090909090909,
+                "12": 0.9115842656080837
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s1044.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s1044.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9820260546432187,
+                "2": 0.9822364651202276,
+                "3": 0.9812851016489925,
+                "4": 0.9630158285117121,
+                "5": 0.8909306461173682,
+                "6": 0.9900679944963198,
+                "7": 0.9783613203810725,
+                "8": 0.9764977378313545,
+                "9": 0.9519723035382497,
+                "10": 0.927216422200382,
+                "11": 0.8680765357502518,
+                "12": 0.8715953307392996
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s1090.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s1090.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9347793730961194,
+                "2": 0.9829407823532443,
+                "3": 0.9827067738741823,
+                "4": 0.886833855799373,
+                "5": 0.8072562358276644,
+                "6": 0.9761001299132238,
+                "7": 0.9547569885140212,
+                "8": 0.9666498740554156,
+                "9": 0.9146745029518439,
+                "10": 0.753956053892757,
+                "11": 0.8564102564102564,
+                "12": 0.6275182168881269
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s1099.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s1099.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9876020257468681,
+                "2": 0.9810392926379498,
+                "3": 0.000319642000958926,
+                "4": 0.9423874635120603,
+                "5": 0.9228066322608982,
+                "6": 0.9910163944205511,
+                "7": 0.972482420604639,
+                "8": 0.9824728293181764,
+                "9": 0.933305514987134,
+                "10": 0.8367130429511079,
+                "11": 0.8882195448460509,
+                "12": 0.7168494516450648
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s1119.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s1119.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9827314571684532,
+                "2": 0.9834651510769656,
+                "3": 0.9836135746485279,
+                "4": 0.9471316085489314,
+                "5": 0.8620590765701176,
+                "6": 0.9849459039739153,
+                "7": 0.8990965429702084,
+                "8": 0.9777944298738603,
+                "9": 0.9383452200007795,
+                "10": 0.8914011879049676,
+                "11": 0.9060272197018795,
+                "12": 0.8690721649484536
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s1120.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s1120.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9860455883039843,
+                "2": 0.9783906962124784,
+                "3": 0.9784570966257912,
+                "4": 0.8676265675801208,
+                "5": 0.8382913806254767,
+                "6": 0.990212335257128,
+                "7": 0.9748435195152095,
+                "8": 0.9593681491936695,
+                "9": 0.9531932966430127,
+                "10": 0.913634297068382,
+                "11": 0.7161716171617162,
+                "12": 0.8407695456406058
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s1131.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s1131.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9888822331376542,
+                "2": 0.9895295051191236,
+                "3": 0.9842192119920237,
+                "4": 0.9712443584784011,
+                "5": 0.8136585365853658,
+                "6": 0.9842473900240225,
+                "7": 0.9659699178918304,
+                "8": 0.9770925110132158,
+                "9": 0.8966979703120267,
+                "10": 0.9463360097570891,
+                "11": 0.4943310657596372,
+                "12": 0.760931289040318
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s1145.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s1145.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9911379451494065,
+                "2": 0.9888459767522717,
+                "3": 0.9883283877349159,
+                "4": 0.9523338281378856,
+                "5": 0.8567279156405885,
+                "6": 0.9914080360088353,
+                "7": 0.9783691781745555,
+                "8": 0.9839549666845371,
+                "9": 0.9559322033898305,
+                "10": 0.907293796864349,
+                "11": 0.9320812404455121,
+                "12": 0.9098635651979423
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s1161.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s1161.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9036926317219826,
+                "2": 0.9821193616949495,
+                "3": 0.980264496439471,
+                "4": 0.3388888888888889,
+                "5": 0.8911423335369578,
+                "6": 0.9843787042761583,
+                "7": 0.9772822372097254,
+                "8": 0.9683882645115124,
+                "9": 0.9267894241525649,
+                "10": 0.9335437022392883,
+                "11": 0.9025069637883009,
+                "12": 0.8221476510067114
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s1187.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s1187.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9600793454004464,
+                "2": 0.9844381313131313,
+                "3": 0.9680596798725284,
+                "4": 0.9550508259212198,
+                "5": 0.9071170084439083,
+                "6": 0.9784101939496609,
+                "7": 0.8991801932136744,
+                "8": 0.9858784317165161,
+                "9": 0.8474723538704582,
+                "10": 0.8277371161246511,
+                "11": 0.6325757575757576,
+                "12": 0.799110452186805
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s1189.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s1189.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.8439844760672703,
+                "2": 0.9696351208241071,
+                "3": 0.932898193106742,
+                "4": 0.8604731182795698,
+                "5": 0.85273258239466,
+                "6": 0.9681395583175845,
+                "7": 0.4944450651075609,
+                "8": 0.9344493966735514,
+                "9": 0.9064432787912002,
+                "10": 0.625047947832758,
+                "11": 0.835799859055673,
+                "12": 0.5499655410062027
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s1206.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s1206.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": 0.9936630207736579,
+                "2": 0.9777203628060153,
+                "3": 0.9792576672413393,
+                "4": 0.8473684899069847,
+                "5": 0.8094993221448272,
+                "6": 0.9904397811945265,
+                "7": 0.9772976250353109,
+                "8": 0.9480859062401131,
+                "9": 0.9747849531390422,
+                "10": 0.9167990057308568,
+                "11": 0.923202614379085,
+                "12": 0.9037626628075254
+            },
+            "prediction_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/preds/s1209.nii.gz",
+            "reference_file": "/nvmescratch/ceib/multi_organ_seg/swin_unetr/inference/fold_4/gt/s1209.nii.gz"
+        }
+    ]
+}
