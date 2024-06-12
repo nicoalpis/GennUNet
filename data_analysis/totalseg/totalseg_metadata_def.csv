@@ -1,0 +1,379 @@
+,image_id,age,gender,institute,study_type,split,manufacturer,scanner_model,kvp,pathology,pathology_location
+1,s0004,71.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+3,s0010,63.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+4,s0011,49.0,m,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,tumor,"thorax,abdomen,pelvis"
+8,s0015,56.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,bleeding,abdomen
+10,s0024,69.0,m,G,ct thorax-abdomen,train,siemens,somatom definition flash,120.0,unclear,unclear
+11,s0028,59.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+12,s0029,64.0,m,I,ct thorax-abdomen-pelvis,test,siemens,somatom definition flash,120.0,other,thorax
+13,s0030,76.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+14,s0038,52.0,f,B,ct neck-thorax-abdomen-pelvis,test,siemens,sensation 16,120.0,unclear,unclear
+15,s0039,48.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,inflammation,abdomen
+16,s0040,52.0,m,C,ct thorax-abdomen-pelvis,test,siemens,emotion 16,130.0,tumor,thorax
+17,s0042,53.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+19,s0050,31.0,m,C,ct thorax-abdomen,train,siemens,emotion 16,130.0,no_pathology,no_location
+20,s0052,78.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,other,pelvis
+21,s0053,30.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,120.0,inflammation,abdomen
+22,s0054,74.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,inflammation,abdomen
+23,s0058,69.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,abdomen
+24,s0059,48.0,f,I,ct thorax-abdomen-pelvis,train,siemens,sensation 64,120.0,inflammation,abdomen
+26,s0070,24.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,tumor,"throat,thorax"
+29,s0073,71.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,other,abdomen
+30,s0075,58.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,other,abdomen
+31,s0077,77.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,tumor,abdomen
+32,s0078,75.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,inflammation,abdomen
+33,s0082,39.0,f,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+34,s0086,71.0,m,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+35,s0088,72.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,140.0,no_pathology,no_location
+36,s0089,75.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+37,s0090,72.0,f,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+40,s0102,41.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+41,s0106,55.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,inflammation,thorax
+42,s0107,87.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition as+,120.0,inflammation,abdomen
+43,s0108,51.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+44,s0109,76.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,other,abdomen
+45,s0117,50.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,120.0,other,abdomen
+46,s0119,43.0,m,I,ct abdomen-pelvis,test,siemens,somatom definition flash,140.0,no_pathology,no_location
+47,s0120,60.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+48,s0123,80.0,m,C,ct neck-thorax-abdomen-pelvis,val,siemens,emotion 16,130.0,tumor,thorax
+52,s0133,69.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+53,s0137,67.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+54,s0139,30.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+55,s0141,57.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,"throat,thorax,abdomen"
+56,s0143,22.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+58,s0150,78.0,m,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+60,s0153,38.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,tumor,abdomen
+62,s0157,77.0,f,I,ct abdomen-pelvis,train,siemens,sensation 64,120.0,no_pathology,no_location
+63,s0158,50.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+65,s0161,53.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,other,abdomen
+68,s0166,58.0,m,I,ct abdomen-pelvis,train,siemens,sensation 64,120.0,inflammation,thorax
+69,s0168,64.0,f,I,ct abdomen,train,siemens,somatom definition flash,100.0,tumor,abdomen
+70,s0174,59.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,sensation 64,120.0,no_pathology,no_location
+72,s0178,61.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,"abdomen,bones"
+74,s0182,47.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,abdomen
+75,s0183,69.0,m,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+76,s0190,59.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+77,s0192,30.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,tumor,"throat,thorax,abdomen,pelvis"
+78,s0193,63.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+79,s0194,67.0,f,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+81,s0201,51.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+82,s0204,36.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+83,s0206,81.0,f,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+84,s0211,82.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,tumor,"abdomen,pelvis"
+85,s0212,66.0,m,I,ct thorax-abdomen,train,siemens,somatom definition as+,100.0,inflammation,"abdomen,pelvis"
+86,s0218,69.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+87,s0222,67.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+88,s0224,47.0,m,I,ct polytrauma,train,siemens,somatom definition as+,140.0,trauma,"head,thorax"
+89,s0227,65.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+90,s0228,42.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,110.0,other,abdomen
+91,s0232,82.0,m,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+92,s0235,44.0,f,I,ct abdomen-pelvis,test,siemens,somatom definition flash,100.0,vascular,unclear
+93,s0236,78.0,m,C,ct abdomen-pelvis,test,siemens,emotion 16,130.0,tumor,abdomen
+94,s0237,45.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,other,abdomen
+95,s0238,17.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,inflammation,abdomen
+98,s0243,56.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,tumor,"abdomen,pelvis"
+99,s0244,85.0,m,I,ct abdomen-pelvis,test,siemens,somatom definition flash,100.0,tumor,abdomen
+102,s0247,50.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,other,abdomen
+103,s0248,71.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,tumor,"abdomen,pelvis"
+105,s0250,67.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+106,s0252,40.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition as+,120.0,inflammation,abdomen
+107,s0255,57.0,f,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+108,s0258,41.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+109,s0260,48.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,tumor,thorax
+111,s0262,31.0,m,I,ct abdomen-pelvis,train,siemens,sensation 64,120.0,no_pathology,no_location
+112,s0275,46.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+114,s0286,74.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+116,s0293,77.0,m,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+119,s0300,76.0,m,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,130.0,unclear,unclear
+122,s0307,69.0,f,B,ct neck-thorax-abdomen-pelvis,train,siemens,sensation 16,120.0,unclear,unclear
+124,s0314,83.0,m,I,ct abdomen-pelvis,train,siemens,sensation 64,120.0,other,abdomen
+125,s0319,67.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition as+,100.0,no_pathology,no_location
+128,s0324,54.0,f,I,ct abdomen-pelvis,val,siemens,somatom definition as+,120.0,other,abdomen
+129,s0325,65.0,f,I,ct abdomen-pelvis,train,siemens,sensation 64,120.0,other,abdomen
+130,s0328,60.0,m,I,ct abdomen-pelvis,train,siemens,somatom definition flash,100.0,inflammation,abdomen
+131,s0329,46.0,m,C,ct abdomen-pelvis,train,siemens,emotion 16,130.0,no_pathology,no_location
+132,s0331,48.0,m,B,ct thorax-abdomen,train,philips,iqon - spectral ct,120.0,unclear,unclear
+133,s0332,68.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,vascular,abdomen
+134,s0334,48.0,m,E,ct neck-thorax-abdomen-pelvis,train,philips,ingenuity core 128,120.0,unclear,unclear
+135,s0339,83.0,f,A,ct abdomen,train,ge,lightspeed vct,120.0,unclear,unclear
+136,s0341,75.0,m,B,ct thorax-abdomen,train,philips,iqon - spectral ct,120.0,unclear,unclear
+137,s0342,60.0,f,E,ct abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+138,s0344,57.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,inflammation,abdomen
+141,s0354,60.0,m,E,ct thorax-abdomen,train,philips,ingenuity core 128,100.0,unclear,unclear
+142,s0355,60.0,m,E,ct thorax-abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+143,s0362,82.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,tumor,bones
+144,s0366,48.0,f,I,ct abdomen,train,siemens,somatom definition as+,120.0,unclear,unclear
+145,s0369,70.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,140.0,tumor,"thorax,abdomen,pelvis"
+146,s0370,60.0,m,A,ct thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,thorax
+147,s0371,52.0,f,E,ct thorax-abdomen-pelvis,train,philips,ingenuity core 128,100.0,unclear,unclear
+148,s0375,46.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,140.0,inflammation,abdomen
+149,s0383,80.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"thorax,abdomen"
+151,s0394,63.0,m,E,ct thorax-abdomen,train,philips,ingenuity core 128,100.0,unclear,unclear
+153,s0402,74.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,abdomen
+154,s0406,66.0,m,E,ct abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+155,s0408,88.0,m,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,bones
+156,s0412,72.0,m,I,ct polytrauma,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+157,s0416,30.0,m,E,ct abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+159,s0422,71.0,m,B,ct thorax-abdomen,train,philips,iqon - spectral ct,120.0,unclear,unclear
+160,s0423,65.0,m,C,ct neck-thorax-abdomen-pelvis,test,siemens,emotion 16,110.0,trauma,thorax
+161,s0428,24.0,m,B,ct thorax-abdomen,train,philips,iqon - spectral ct,120.0,unclear,unclear
+162,s0429,48.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,140.0,tumor,abdomen
+163,s0433,39.0,m,B,ct thorax-abdomen,train,philips,iqon - spectral ct,120.0,unclear,unclear
+164,s0436,57.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,unclear,unclear
+166,s0438,46.0,f,E,ct thorax-abdomen,train,philips,ingenuity core 128,100.0,unclear,unclear
+167,s0440,55.0,f,I,ct thorax-abdomen-pelvis,test,siemens,somatom definition flash,100.0,no_pathology,no_location
+168,s0441,72.0,m,A,ct abdomen,test,ge,lightspeed vct,120.0,other,abdomen
+170,s0447,76.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+172,s0455,73.0,m,B,ct thorax-abdomen,train,philips,iqon - spectral ct,120.0,unclear,unclear
+173,s0456,69.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"throat,thorax,abdomen,pelvis"
+174,s0458,83.0,f,B,ct abdomen,val,siemens,sensation 16,120.0,unclear,unclear
+175,s0461,58.0,m,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,no_pathology,no_location
+176,s0470,52.0,m,E,ct thorax-abdomen,test,philips,ingenuity core 128,100.0,unclear,unclear
+177,s0471,63.0,f,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+178,s0472,64.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,no_pathology,no_location
+179,s0473,73.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+180,s0476,61.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+181,s0477,68.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,tumor,abdomen
+182,s0480,74.0,m,E,ct abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+183,s0483,51.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,140.0,other,thorax
+184,s0484,64.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,140.0,tumor,"abdomen,pelvis"
+185,s0486,50.0,m,A,ct abdomen,train,ge,lightspeed vct,120.0,no_pathology,no_location
+188,s0495,64.0,f,A,ct abdomen,train,ge,lightspeed vct,120.0,tumor,pelvis
+189,s0498,65.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,100.0,vascular,"abdomen,pelvis"
+190,s0499,61.0,f,E,ct thorax-abdomen,test,philips,ingenuity core 128,120.0,unclear,unclear
+191,s0500,49.0,m,B,ct neck-thorax-abdomen-pelvis,train,siemens,sensation 16,120.0,unclear,unclear
+192,s0502,70.0,m,E,ct thorax-abdomen-pelvis,train,philips,ingenuity core 128,120.0,unclear,unclear
+194,s0507,69.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+195,s0509,49.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+196,s0510,63.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,extremity
+197,s0511,40.0,m,I,ct polytrauma,train,siemens,somatom definition as+,120.0,trauma,thorax
+198,s0513,65.0,f,G,ct abdomen,train,siemens,somatom definition flash,120.0,unclear,unclear
+199,s0516,88.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,other,thorax
+200,s0519,64.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,tumor,thorax
+201,s0529,33.0,f,G,ct abdomen,train,siemens,somatom definition flash,100.0,unclear,unclear
+202,s0536,65.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,tumor,"throat,thorax,abdomen"
+203,s0541,71.0,m,I,ct abdomen,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+205,s0543,54.0,f,I,ct thorax-abdomen-pelvis,test,siemens,somatom definition flash,120.0,tumor,pelvis
+207,s0545,43.0,f,E,ct abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+208,s0546,64.0,m,C,ct thorax-abdomen-pelvis,val,siemens,emotion 16,110.0,no_pathology,no_location
+209,s0548,65.0,m,B,ct neck-thorax-abdomen-pelvis,train,siemens,sensation 16,120.0,unclear,unclear
+210,s0549,69.0,m,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"thorax,bones,pelvis"
+211,s0550,62.0,m,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,abdomen
+212,s0551,82.0,f,E,ct neck-thorax-abdomen-pelvis,train,philips,ingenuity core 128,120.0,unclear,unclear
+213,s0553,45.0,f,E,ct thorax-abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+214,s0555,72.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+215,s0556,51.0,m,I,ct polytrauma,train,siemens,somatom definition as+,120.0,trauma,throat
+216,s0560,44.0,f,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+217,s0561,76.0,m,C,ct neck-thorax-abdomen-pelvis,test,siemens,emotion 16,110.0,tumor,thorax
+218,s0566,48.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+219,s0571,55.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+220,s0574,51.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+222,s0578,67.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+226,s0586,58.0,m,A,ct thorax-abdomen,train,ge,lightspeed vct,120.0,unclear,unclear
+228,s0589,58.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,abdomen
+230,s0591,74.0,m,I,ct polytrauma,train,siemens,somatom definition as+,120.0,trauma,thorax
+231,s0592,86.0,f,I,ct polytrauma,train,siemens,somatom definition as+,120.0,trauma,thorax
+232,s0593,55.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,"abdomen,bones"
+234,s0600,65.0,m,B,ct thorax-abdomen-pelvis,train,siemens,sensation 16,120.0,unclear,unclear
+235,s0602,44.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"thorax,abdomen,bones"
+236,s0607,61.0,m,B,ct thorax-abdomen,val,siemens,sensation 16,120.0,unclear,unclear
+237,s0612,73.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"bones,pelvis"
+238,s0613,67.0,m,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,thorax
+239,s0615,60.0,f,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+240,s0616,56.0,m,I,ct polytrauma,train,siemens,somatom definition as+,120.0,trauma,thorax
+241,s0617,57.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+242,s0618,66.0,f,C,ct thorax-abdomen-pelvis,val,siemens,emotion 16,110.0,tumor,thorax
+243,s0619,79.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,abdomen
+244,s0620,67.0,m,E,ct abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+246,s0623,89.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,abdomen
+247,s0625,54.0,m,I,ct neck-thorax-abdomen-pelvis,val,siemens,somatom definition edge,120.0,tumor,"thorax,abdomen,pelvis"
+248,s0626,60.0,f,E,ct thorax-abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+249,s0628,61.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,tumor,thorax
+251,s0635,76.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,abdomen
+254,s0639,58.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,pelvis
+255,s0644,66.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"thorax,abdomen,pelvis"
+257,s0648,72.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"thorax,bones"
+258,s0649,63.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,tumor,thorax
+259,s0650,65.0,m,I,ct thorax-abdomen-pelvis,val,siemens,somatom definition as+,120.0,inflammation,thorax
+260,s0651,81.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+261,s0656,71.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"abdomen,pelvis"
+262,s0657,53.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,140.0,no_pathology,no_location
+264,s0661,90.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"thorax,throat"
+265,s0662,51.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+266,s0663,61.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,thorax
+267,s0664,74.0,f,I,ct thorax-abdomen,train,siemens,somatom definition as+,120.0,inflammation,abdomen
+268,s0667,65.0,m,C,ct neck-thorax-abdomen-pelvis,test,siemens,emotion 16,110.0,no_pathology,no_location
+273,s0682,44.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+274,s0683,75.0,m,G,ct thorax-abdomen,train,siemens,somatom definition flash,120.0,unclear,unclear
+275,s0686,74.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+278,s0690,94.0,f,I,ct polytrauma,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+280,s0694,32.0,m,E,ct thorax-abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+281,s0699,80.0,f,E,ct neck-thorax-abdomen-pelvis,train,philips,ingenuity core 128,120.0,unclear,unclear
+282,s0703,79.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,"thorax,abdomen"
+283,s0705,67.0,m,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+284,s0708,36.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,abdomen
+285,s0709,70.0,m,E,ct thorax-abdomen-pelvis,train,philips,ingenuity core 128,100.0,unclear,unclear
+286,s0711,64.0,m,A,ct thorax-abdomen,train,ge,lightspeed vct,120.0,unclear,unclear
+287,s0720,30.0,m,J,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,tumor,throat
+288,s0721,33.0,f,I,ct abdomen,train,siemens,somatom definition as+,120.0,inflammation,abdomen
+289,s0723,71.0,f,C,ct neck-thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,tumor,"thorax,abdomen,pelvis"
+290,s0726,69.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,"thorax,abdomen,bones"
+292,s0728,51.0,f,E,ct thorax-abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+293,s0731,57.0,f,C,ct thorax-abdomen-pelvis,train,siemens,emotion 16,110.0,no_pathology,no_location
+294,s0733,66.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,tumor,thorax
+297,s0739,37.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+298,s0746,62.0,m,E,ct abdomen,train,philips,ingenuity core 128,120.0,unclear,unclear
+299,s0749,75.0,m,B,ct abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+300,s0754,60.0,m,I,ct polytrauma,train,siemens,somatom force,150.0,trauma,thorax
+302,s0760,42.0,f,I,ct thorax-abdomen-pelvis,val,siemens,somatom force,110.0,no_pathology,no_location
+303,s0762,65.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,100.0,vascular,thorax
+304,s0763,58.0,m,I,ct polytrauma,train,siemens,somatom force,110.0,trauma,thorax
+305,s0764,75.0,f,A,ct neck-thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,no_pathology,no_location
+306,s0765,54.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+307,s0768,75.0,f,A,ct abdomen,train,siemens,somatom go.top,120.0,unclear,abdomen
+308,s0770,77.0,m,A,ct neck-thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,thorax
+309,s0775,73.0,m,A,ct neck-thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,pelvis
+310,s0777,74.0,m,I,ct polytrauma,train,siemens,somatom force,130.0,no_pathology,no_location
+311,s0778,57.0,m,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,"thorax,abdomen"
+312,s0785,56.0,f,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,no_pathology,no_location
+313,s0790,40.0,f,I,ct polytrauma,train,siemens,somatom force,100.0,no_pathology,no_location
+314,s0794,60.0,f,I,ct thorax-abdomen-pelvis,val,siemens,somatom definition edge,120.0,inflammation,thorax
+315,s0795,56.0,f,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,140.0,no_pathology,no_location
+316,s0796,82.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,"thorax,bones"
+317,s0797,63.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom force,100.0,tumor,abdomen
+318,s0798,56.0,f,A,ct neck-thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,no_pathology,no_location
+319,s0801,57.0,m,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,"thorax,abdomen"
+321,s0806,72.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom force,110.0,no_pathology,no_location
+324,s0812,60.0,m,I,ct polytrauma,train,siemens,somatom force,100.0,trauma,throat
+325,s0816,66.0,f,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,140.0,tumor,abdomen
+329,s0830,84.0,m,A,ct neck-thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,inflammation,thorax
+331,s0835,53.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+332,s0836,62.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+333,s0842,64.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,150.0,other,abdomen
+335,s0859,70.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,inflammation,thorax
+336,s0860,56.0,m,I,ct polytrauma,train,siemens,somatom force,130.0,trauma,thorax
+337,s0863,61.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+338,s0864,57.0,f,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,no_pathology,no_location
+339,s0869,75.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,no_pathology,no_location
+340,s0878,66.0,m,A,ct neck-thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,"throat,thorax"
+341,s0880,72.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,inflammation,thorax
+342,s0884,56.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,inflammation,abdomen
+344,s0894,35.0,m,I,ct polytrauma,train,siemens,somatom force,100.0,trauma,thorax
+345,s0896,21.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,"abdomen,bones"
+346,s0899,74.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,inflammation,abdomen
+347,s0903,87.0,m,I,ct polytrauma,train,siemens,somatom force,100.0,no_pathology,no_location
+348,s0904,82.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,100.0,inflammation,abdomen
+350,s0912,68.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom force,100.0,inflammation,thorax
+351,s0913,29.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+352,s0915,71.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+353,s0916,65.0,m,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,no_pathology,no_location
+354,s0918,67.0,m,I,ct neck-thorax-abdomen-pelvis,val,siemens,somatom definition flash,120.0,no_pathology,no_location
+355,s0923,43.0,f,I,ct neck-thorax-abdomen-pelvis,test,siemens,somatom definition edge,120.0,tumor,bones
+356,s0924,63.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+358,s0928,77.0,f,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,140.0,no_pathology,no_location
+360,s0933,55.0,f,I,ct polytrauma,test,siemens,somatom force,150.0,bleeding,extremity
+361,s0939,73.0,m,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,"abdomen,head"
+362,s0940,77.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom force,100.0,tumor,"abdomen,bones"
+363,s0945,68.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,abdomen
+364,s0950,79.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,"abdomen,bones"
+365,s0957,50.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,pelvis
+366,s0959,47.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,inflammation,"thorax,abdomen"
+367,s0961,56.0,m,A,ct thorax-abdomen-pelvis,train,siemens,somatom go.top,120.0,tumor,"thorax,head"
+368,s0963,59.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,inflammation,"abdomen,pelvis"
+369,s0965,64.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,90.0,other,abdomen
+370,s0970,51.0,f,I,ct polytrauma,train,siemens,somatom force,100.0,no_pathology,no_location
+372,s0979,74.0,m,F,ct abdomen ,train,philips,brilliance 64,120.0,unclear,unclear
+373,s0982,56.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,other,abdomen
+374,s0983,67.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,inflammation,thorax
+375,s0985,73.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,"throat,thorax"
+376,s0986,88.0,f,I,ct polytrauma,train,siemens,somatom force,110.0,trauma,"thorax,abdomen,pelvis"
+379,s0991,71.0,f,A,ct thorax-abdomen-pelvis,val,siemens,somatom go.top,120.0,tumor,"thorax,abdomen"
+380,s0992,54.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,thorax
+381,s0994,79.0,m,A,ct neck-thorax-abdomen-pelvis,test,siemens,somatom go.top,120.0,trauma,abdomen
+382,s1006,67.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,inflammation,abdomen
+383,s1008,76.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,abdomen
+384,s1012,46.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+386,s1024,31.0,m,I,ct thorax-abdomen-pelvis,val,siemens,somatom definition flash,120.0,tumor,"thorax,abdomen"
+388,s1031,69.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,abdomen
+389,s1037,71.0,f,E,ct abdomen ,train,philips,ingenuity core 128,120.0,unclear,unclear
+390,s1038,58.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,thorax
+391,s1044,71.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,tumor,"thorax,bones"
+392,s1045,62.0,m,I,ct polytrauma,train,siemens,somatom force,100.0,no_pathology,no_location
+393,s1046,72.0,m,I,ct thorax-abdomen-pelvis,val,siemens,somatom force,100.0,no_pathology,no_location
+394,s1061,44.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,abdomen
+395,s1063,49.0,f,A,ct thorax-abdomen-pelvis,train,ge,discovery ste,120.0,tumor,abdomen
+396,s1069,71.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,no_pathology,no_location
+397,s1070,37.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,100.0,no_pathology,no_location
+398,s1082,69.0,m,I,ct polytrauma,train,siemens,somatom force,110.0,trauma,extremity
+399,s1085,76.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,"thorax,throat,abdomen"
+400,s1086,45.0,m,A,ct neck-thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,"thorax,abdomen"
+402,s1089,65.0,m,I,ct polytrauma,train,siemens,somatom definition edge,120.0,trauma,thorax
+403,s1090,80.0,m,A,ct thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,"abdomen,bones"
+404,s1099,52.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,"thorax,abdomen"
+406,s1111,70.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom force,150.0,no_pathology,no_location
+407,s1119,50.0,m,A,ct neck-thorax-abdomen-pelvis,test,ge,lightspeed vct,120.0,tumor,thorax
+408,s1120,55.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+409,s1123,48.0,m,I,ct polytrauma,train,siemens,somatom force,150.0,trauma,thorax
+410,s1124,72.0,m,I,ct polytrauma,train,siemens,somatom force,90.0,trauma,throat
+411,s1127,69.0,f,J,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition flash,120.0,tumor,thorax
+412,s1130,82.0,m,B,ct abdomen ,train,philips,iqon - spectral ct,120.0,unclear,unclear
+413,s1131,42.0,f,F,ct abdomen ,train,philips,brilliance 64,120.0,unclear,unclear
+414,s1132,67.0,f,A,ct thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,no_pathology,no_location
+415,s1135,52.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,inflammation,abdomen
+416,s1143,70.0,m,A,ct neck-thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,"throat,thorax"
+417,s1145,57.0,f,A,ct neck-thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,"thorax,abdomen,bones"
+420,s1152,76.0,f,I,ct polytrauma,test,siemens,somatom force,150.0,trauma,thorax
+421,s1153,42.0,f,E,ct abdomen ,train,philips,ingenuity core 128,120.0,unclear,unclear
+422,s1155,66.0,f,A,ct thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,no_pathology,no_location
+423,s1159,47.0,f,I,ct polytrauma,train,siemens,somatom force,110.0,no_pathology,no_location
+424,s1161,52.0,m,I,ct polytrauma,val,siemens,somatom force,150.0,trauma,abdomen
+425,s1171,26.0,m,I,ct polytrauma,train,siemens,somatom force,100.0,trauma,extremity
+426,s1174,61.0,m,I,ct thorax-abdomen-pelvis,test,siemens,somatom force,100.0,no_pathology,no_location
+427,s1176,43.0,f,I,ct thorax-abdomen-pelvis,test,siemens,somatom definition flash,140.0,tumor,abdomen
+430,s1183,62.0,m,E,ct abdomen ,train,philips,ingenuity core 128,120.0,unclear,unclear
+431,s1187,62.0,m,E,ct abdomen ,train,philips,ingenuity core 128,120.0,unclear,unclear
+432,s1189,41.0,f,E,ct polytrauma,train,philips,ingenuity core 128,120.0,unclear,unclear
+436,s1206,62.0,m,I,ct polytrauma,train,siemens,somatom force,120.0,inflammation,thorax
+437,s1207,83.0,f,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,inflammation,thorax
+438,s1209,74.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,other,abdomen
+439,s1210,80.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,inflammation,pelvis
+440,s1212,70.0,f,F,ct abdomen ,test,philips,brilliance 64,100.0,unclear,unclear
+442,s1224,72.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition flash,100.0,no_pathology,no_location
+444,s1233,88.0,f,I,ct thorax-abdomen-pelvis,val,siemens,somatom definition flash,140.0,no_pathology,no_location
+445,s1238,64.0,m,I,ct thorax-abdomen-pelvis,val,siemens,somatom definition as+,120.0,inflammation,thorax
+447,s1244,68.0,m,E,ct abdomen ,train,philips,ingenuity core 128,120.0,unclear,unclear
+448,s1247,27.0,f,A,ct neck-thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,tumor,thorax
+449,s1249,94.0,f,I,ct polytrauma,test,siemens,somatom definition as+,120.0,bleeding,pelvis
+450,s1255,74.0,m,A,ct neck-thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,no_pathology,no_location
+452,s1270,63.0,m,B,ct thorax-abdomen,train,philips,iqon - spectral ct,120.0,unclear,unclear
+453,s1273,56.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+454,s1276,50.0,f,I,ct neck-thorax-abdomen-pelvis,test,siemens,somatom definition flash,120.0,tumor,thorax
+455,s1283,75.0,f,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,tumor,pelvis
+456,s1285,57.0,m,E,ct thorax-abdomen,train,philips,ingenuity core 128,100.0,unclear,unclear
+457,s1287,77.0,m,J,ct neck-thorax-abdomen-pelvis,val,siemens,somatom definition edge,120.0,tumor,thorax
+458,s1291,71.0,f,A,ct abdomen,train,ge,lightspeed vct,120.0,no_pathology,no_location
+460,s1294,21.0,f,G,ct thorax-abdomen,train,siemens,somatom definition flash,100.0,unclear,unclear
+461,s1297,84.0,m,I,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+463,s1304,67.0,m,I,ct polytrauma,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+464,s1307,52.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition as+,100.0,inflammation,abdomen
+467,s1314,62.0,f,I,ct polytrauma,train,siemens,somatom definition as+,120.0,no_pathology,no_location
+468,s1321,50.0,m,I,ct polytrauma,train,siemens,somatom definition as+,120.0,trauma,thorax
+469,s1322,57.0,m,A,ct abdomen,test,ge,lightspeed vct,120.0,unclear,unclear
+470,s1329,80.0,f,B,ct thorax-abdomen,train,siemens,sensation 16,120.0,unclear,unclear
+471,s1331,74.0,m,A,ct abdomen,train,ge,lightspeed vct,120.0,unclear,unclear
+472,s1336,79.0,m,J,ct neck-thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,no_pathology,no_location
+474,s1340,82.0,m,A,ct thorax-abdomen-pelvis,train,ge,lightspeed vct,120.0,no_pathology,no_location
+476,s1348,69.0,m,I,ct thorax-abdomen-pelvis,train,siemens,somatom definition edge,120.0,other,thorax
+477,s1350,66.0,f,I,ct polytrauma,train,siemens,somatom definition as+,120.0,trauma,"thorax,abdomen"
+478,s1354,31.0,m,I,ct polytrauma,train,siemens,somatom definition as+,120.0,trauma,thorax
+479,s1366,50.0,,I,ct polytrauma,train,siemens,sensation 64,120.0,unclear,unclear
+480,s1411,63.0,m,I,ct thorax-abdomen-pelvis,test,,,,,
+481,s1412,43.0,m,I,ct polytrauma,test,,,,,
+482,s1413,32.0,m,I,ct neck-thorax-abdomen-pelvis,test,,,,,
+483,s1414,43.0,f,I,ct abdomen-pelvis,test,,,,,
+484,s1415,68.0,f,I,ct abdomen-pelvis,test,,,,,
+486,s1420,90.0,m,I,ct thorax-abdomen-pelvis,test,,,,,
+487,s1421,69.0,m,I,ct abdomen-pelvis,test,,,,,
+488,s1422,64.0,f,I,ct thorax-abdomen-pelvis,test,,,,,
+489,s1423,27.0,f,I,ct abdomen-pelvis,test,,,,,
+490,s1424,98.0,f,D,ct thorax-abdomen-pelvis,test,,,,,
