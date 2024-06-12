@@ -1,0 +1,28 @@
+{
+    "all_results": {
+        "ensemble___nnUNetTrainer__nnUNetPlans__2d___nnUNetTrainer__nnUNetPlans__3d_fullres___0_1_2_3_4": 0.9156217381296584,
+        "nnUNetTrainer__nnUNetPlans__2d": 0.8932989126576812,
+        "nnUNetTrainer__nnUNetPlans__3d_fullres": 0.9229673635162449
+    },
+    "considered_models": [
+        {
+            "configuration": "2d",
+            "plans": "nnUNetPlans",
+            "trainer": "nnUNetTrainer"
+        },
+        {
+            "configuration": "3d_fullres",
+            "plans": "nnUNetPlans",
+            "trainer": "nnUNetTrainer"
+        }
+    ],
+    "dataset_name_or_id": "Dataset060_Merged_Def",
+    "ensembling_allowed": true,
+    "folds": [
+        0,
+        1,
+        2,
+        3,
+        4
+    ]
+}
