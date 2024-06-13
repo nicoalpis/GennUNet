@@ -1,0 +1,651 @@
+image_id,sex,age,manufacturer,scanner_model
+amos_0001,m,69,philips,brilliance16
+amos_0004,f,68,toshiba,aquilion one
+amos_0005,m,93,philips,brilliance16
+amos_0006,m,67,toshiba,aquilion one
+amos_0007,m,43,philips,brilliance16
+amos_0008,m,71,philips,brilliance16
+amos_0009,m,51,toshiba,aquilion one
+amos_0011,f,60,toshiba,aquilion one
+amos_0013,f,58,toshiba,aquilion one
+amos_0014,f,43,toshiba,aquilion one
+amos_0015,f,74,philips,brilliance16
+amos_0016,f,60,toshiba,aquilion one
+amos_0017,m,83,toshiba,aquilion one
+amos_0018,m,58,toshiba,aquilion one
+amos_0019,m,40,toshiba,aquilion one
+amos_0022,m,53,philips,brilliance16
+amos_0023,m,55,toshiba,aquilion one
+amos_0024,f,50,toshiba,aquilion one
+amos_0025,f,35,toshiba,aquilion one
+amos_0027,f,73,toshiba,aquilion one
+amos_0029,f,61,toshiba,aquilion one
+amos_0030,f,49,toshiba,aquilion one
+amos_0032,m,55,toshiba,aquilion one
+amos_0033,m,46,toshiba,aquilion one
+amos_0034,m,50,toshiba,aquilion one
+amos_0035,f,44,toshiba,aquilion one
+amos_0036,m,63,toshiba,aquilion one
+amos_0038,m,45,toshiba,aquilion one
+amos_0040,f,75,toshiba,aquilion one
+amos_0041,f,54,toshiba,aquilion one
+amos_0042,f,76,toshiba,aquilion one
+amos_0043,f,60,toshiba,aquilion one
+amos_0044,m,62,philips,brilliance16
+amos_0045,f,56,philips,brilliance16
+amos_0047,m,39,philips,brilliance16
+amos_0048,m,55,philips,brilliance16
+amos_0049,m,55,philips,brilliance16
+amos_0050,m,51,philips,brilliance16
+amos_0051,m,54,toshiba,aquilion one
+amos_0054,m,59,philips,brilliance16
+amos_0058,m,33,philips,brilliance16
+amos_0059,m,70,toshiba,aquilion one
+amos_0060,m,45,philips,brilliance16
+amos_0061,f,47,toshiba,aquilion one
+amos_0063,f,39,toshiba,aquilion one
+amos_0064,f,61,toshiba,aquilion one
+amos_0066,f,56,toshiba,aquilion one
+amos_0069,m,54,toshiba,aquilion one
+amos_0071,m,52,toshiba,aquilion one
+amos_0072,m,31,philips,brilliance16
+amos_0073,m,66,toshiba,aquilion one
+amos_0075,m,72,toshiba,aquilion one
+amos_0076,f,68,philips,brilliance16
+amos_0077,m,16,philips,brilliance16
+amos_0078,m,45,toshiba,aquilion one
+amos_0081,m,51,philips,brilliance16
+amos_0083,f,71,toshiba,aquilion one
+amos_0084,m,58,toshiba,aquilion one
+amos_0085,f,34,toshiba,aquilion one
+amos_0086,f,62,toshiba,aquilion one
+amos_0087,m,55,toshiba,aquilion one
+amos_0088,m,76,toshiba,aquilion one
+amos_0089,m,66,toshiba,aquilion one
+amos_0090,m,45,toshiba,aquilion one
+amos_0092,m,67,toshiba,aquilion one
+amos_0094,f,54,toshiba,aquilion one
+amos_0097,f,28,toshiba,aquilion one
+amos_0098,m,44,toshiba,aquilion one
+amos_0099,m,66,philips,brilliance16
+amos_0102,m,55,philips,brilliance16
+amos_0103,m,39,philips,brilliance16
+amos_0104,f,61,toshiba,aquilion one
+amos_0105,m,64,philips,brilliance16
+amos_0106,f,80,philips,brilliance16
+amos_0108,f,48,toshiba,aquilion one
+amos_0109,f,17,philips,brilliance16
+amos_0110,m,73,toshiba,aquilion one
+amos_0111,f,39,toshiba,aquilion one
+amos_0113,m,39,philips,brilliance16
+amos_0116,f,37,toshiba,aquilion one
+amos_0117,m,62,philips,brilliance16
+amos_0118,f,57,toshiba,aquilion one
+amos_0119,m,40,toshiba,aquilion one
+amos_0121,m,62,toshiba,aquilion one
+amos_0123,m,61,toshiba,aquilion one
+amos_0124,m,51,toshiba,aquilion one
+amos_0125,f,56,philips,brilliance16
+amos_0126,m,81,toshiba,aquilion one
+amos_0127,f,56,toshiba,aquilion one
+amos_0128,m,50,philips,brilliance16
+amos_0131,m,51,toshiba,aquilion one
+amos_0132,m,60,toshiba,aquilion one
+amos_0133,m,36,philips,brilliance16
+amos_0134,m,63,toshiba,aquilion one
+amos_0135,m,40,toshiba,aquilion one
+amos_0136,f,54,toshiba,aquilion one
+amos_0137,m,52,toshiba,aquilion one
+amos_0138,f,58,toshiba,aquilion one
+amos_0140,m,24,philips,brilliance16
+amos_0141,m,68,toshiba,aquilion one
+amos_0143,f,34,philips,brilliance16
+amos_0144,m,68,toshiba,aquilion one
+amos_0147,m,48,toshiba,aquilion one
+amos_0149,f,49,toshiba,aquilion one
+amos_0152,m,59,toshiba,aquilion one
+amos_0153,f,66,toshiba,aquilion one
+amos_0154,m,46,toshiba,aquilion one
+amos_0155,m,49,toshiba,aquilion one
+amos_0157,f,62,toshiba,aquilion one
+amos_0158,f,52,toshiba,aquilion one
+amos_0159,m,31,toshiba,aquilion one
+amos_0160,f,31,toshiba,aquilion one
+amos_0161,f,43,toshiba,aquilion one
+amos_0162,m,68,toshiba,aquilion one
+amos_0166,m,38,toshiba,aquilion one
+amos_0167,f,61,toshiba,aquilion one
+amos_0170,m,58,toshiba,aquilion one
+amos_0171,f,82,philips,brilliance16
+amos_0173,m,56,philips,brilliance16
+amos_0174,m,47,toshiba,aquilion one
+amos_0175,m,62,toshiba,aquilion one
+amos_0176,f,45,toshiba,aquilion one
+amos_0177,m,65,toshiba,aquilion one
+amos_0179,m,46,toshiba,aquilion one
+amos_0180,f,71,philips,brilliance16
+amos_0184,m,30,toshiba,aquilion one
+amos_0185,f,44,toshiba,aquilion one
+amos_0186,f,51,philips,brilliance16
+amos_0188,m,54,toshiba,aquilion one
+amos_0189,f,32,philips,brilliance16
+amos_0192,m,47,toshiba,aquilion one
+amos_0193,f,62,toshiba,aquilion one
+amos_0194,m,39,toshiba,aquilion one
+amos_0195,m,52,toshiba,aquilion one
+amos_0196,f,57,toshiba,aquilion one
+amos_0197,m,41,toshiba,aquilion one
+amos_0198,f,50,toshiba,aquilion one
+amos_0199,m,47,philips,brilliance16
+amos_0200,m,54,toshiba,aquilion one
+amos_0202,m,86,siemens,somatom force
+amos_0203,m,64,siemens,somatom force
+amos_0204,f,53,siemens,somatom force
+amos_0206,f,43,siemens,somatom force
+amos_0207,m,55,siemens,somatom force
+amos_0208,m,34,siemens,somatom force
+amos_0212,f,62,siemens,somatom force
+amos_0214,m,42,siemens,somatom force
+amos_0215,f,72,siemens,somatom force
+amos_0216,f,34,siemens,somatom force
+amos_0217,m,28,siemens,somatom force
+amos_0218,m,27,siemens,somatom force
+amos_0219,m,27,siemens,somatom force
+amos_0223,f,44,siemens,somatom force
+amos_0224,m,60,siemens,somatom force
+amos_0225,f,81,siemens,somatom force
+amos_0226,m,52,siemens,somatom force
+amos_0228,f,81,siemens,somatom force
+amos_0230,m,79,siemens,somatom force
+amos_0231,m,81,siemens,somatom force
+amos_0233,m,56,siemens,somatom force
+amos_0235,m,67,siemens,somatom force
+amos_0237,f,61,siemens,somatom force
+amos_0238,m,37,siemens,somatom force
+amos_0239,f,49,siemens,somatom force
+amos_0242,m,63,siemens,somatom force
+amos_0244,f,51,siemens,somatom force
+amos_0247,m,54,siemens,somatom force
+amos_0248,m,65,siemens,somatom force
+amos_0249,m,23,siemens,somatom force
+amos_0250,f,80,siemens,somatom force
+amos_0254,m,36,siemens,somatom force
+amos_0255,m,50,siemens,somatom force
+amos_0257,m,58,siemens,somatom force
+amos_0258,f,76,siemens,somatom force
+amos_0259,f,57,siemens,somatom force
+amos_0263,f,21,siemens,somatom force
+amos_0264,m,22,siemens,somatom force
+amos_0268,m,66,siemens,somatom force
+amos_0272,f,86,siemens,somatom force
+amos_0273,m,57,siemens,somatom force
+amos_0274,m,15,siemens,somatom force
+amos_0276,f,34,siemens,somatom force
+amos_0278,f,45,siemens,somatom force
+amos_0280,f,33,siemens,somatom force
+amos_0281,f,45,siemens,somatom force
+amos_0282,m,55,siemens,somatom force
+amos_0283,f,69,siemens,somatom force
+amos_0284,m,58,siemens,somatom force
+amos_0286,m,79,siemens,somatom force
+amos_0287,m,35,siemens,somatom force
+amos_0288,f,60,siemens,somatom force
+amos_0289,m,33,siemens,somatom force
+amos_0290,m,52,siemens,somatom force
+amos_0292,m,56,siemens,somatom force
+amos_0293,m,14,siemens,somatom force
+amos_0296,f,48,siemens,somatom force
+amos_0297,f,70,siemens,somatom force
+amos_0299,f,61,siemens,somatom force
+amos_0301,f,53,siemens,somatom force
+amos_0302,f,70,siemens,somatom force
+amos_0304,f,22,siemens,somatom force
+amos_0307,m,19,siemens,somatom force
+amos_0308,m,59,siemens,somatom force
+amos_0309,m,72,siemens,somatom force
+amos_0310,m,49,siemens,somatom force
+amos_0316,m,32,siemens,somatom force
+amos_0317,m,87,siemens,somatom force
+amos_0318,m,63,siemens,somatom force
+amos_0320,m,64,siemens,somatom force
+amos_0321,m,81,siemens,somatom force
+amos_0325,m,59,siemens,somatom force
+amos_0326,f,69,siemens,somatom force
+amos_0328,m,44,siemens,somatom force
+amos_0330,m,47,siemens,somatom force
+amos_0332,m,61,siemens,somatom force
+amos_0333,f,45,siemens,somatom force
+amos_0334,f,35,siemens,somatom force
+amos_0336,f,43,siemens,somatom force
+amos_0337,m,63,siemens,somatom force
+amos_0339,f,69,siemens,somatom force
+amos_0341,m,56,siemens,somatom force
+amos_0342,m,63,siemens,somatom force
+amos_0344,m,27,siemens,somatom force
+amos_0346,m,54,siemens,somatom force
+amos_0348,m,76,siemens,somatom force
+amos_0349,f,37,siemens,somatom force
+amos_0350,m,44,siemens,somatom force
+amos_0351,m,72,siemens,somatom force
+amos_0352,m,33,siemens,somatom force
+amos_0353,f,77,siemens,somatom force
+amos_0357,f,56,siemens,somatom force
+amos_0358,f,41,siemens,somatom force
+amos_0361,m,42,philips,brilliance16
+amos_0362,m,34,philips,brilliance16
+amos_0363,m,53,philips,brilliance16
+amos_0364,m,24,philips,brilliance16
+amos_0365,m,37,philips,brilliance16
+amos_0366,m,53,philips,brilliance16
+amos_0367,m,53,philips,brilliance16
+amos_0368,f,94,philips,brilliance16
+amos_0370,m,57,philips,brilliance16
+amos_0371,m,26,philips,brilliance16
+amos_0372,m,46,philips,brilliance16
+amos_0373,f,66,philips,brilliance16
+amos_0374,f,38,philips,brilliance16
+amos_0377,f,63,philips,brilliance16
+amos_0378,m,53,philips,brilliance16
+amos_0379,f,62,philips,brilliance16
+amos_0380,m,40,philips,brilliance16
+amos_0381,m,31,philips,brilliance16
+amos_0383,m,25,philips,brilliance16
+amos_0384,f,39,philips,brilliance16
+amos_0385,f,78,philips,brilliance16
+amos_0387,f,39,philips,brilliance16
+amos_0388,m,66,philips,brilliance16
+amos_0390,f,43,philips,brilliance16
+amos_0391,m,41,philips,brilliance16
+amos_0392,m,59,philips,brilliance16
+amos_0395,f,32,philips,brilliance16
+amos_0396,m,51,philips,brilliance16
+amos_0397,f,28,philips,brilliance16
+amos_0398,m,55,philips,brilliance16
+amos_0399,m,40,philips,brilliance16
+amos_0400,m,30,philips,brilliance16
+amos_0401,f,70,philips,brilliance16
+amos_0403,m,45,philips,brilliance16
+amos_0404,f,32,philips,brilliance16
+amos_0405,f,62,philips,brilliance16
+amos_0406,m,30,philips,brilliance16
+amos_0408,m,65,philips,brilliance16
+amos_0409,m,59,philips,brilliance16
+amos_0410,m,47,philips,brilliance16
+s0004,f,71,siemens,emotion 16
+s0010,m,63,siemens,somatom definition flash
+s0011,m,49,siemens,emotion 16
+s0015,m,56,siemens,somatom definition flash
+s0024,m,69,siemens,somatom definition flash
+s0028,f,59,siemens,emotion 16
+s0029,m,64,siemens,somatom definition flash
+s0030,f,76,siemens,somatom definition flash
+s0038,f,52,siemens,sensation 16
+s0039,f,48,siemens,somatom definition flash
+s0040,m,52,siemens,emotion 16
+s0042,m,53,siemens,emotion 16
+s0050,m,31,siemens,emotion 16
+s0052,m,78,siemens,somatom definition flash
+s0053,m,30,siemens,somatom definition as+
+s0054,f,74,siemens,somatom definition as+
+s0058,f,69,siemens,somatom definition flash
+s0059,f,48,siemens,sensation 64
+s0070,f,24,siemens,emotion 16
+s0073,m,71,siemens,somatom definition flash
+s0075,m,58,siemens,somatom definition flash
+s0077,m,77,siemens,somatom definition as+
+s0078,m,75,siemens,somatom definition as+
+s0082,f,39,siemens,emotion 16
+s0086,m,71,siemens,emotion 16
+s0088,m,72,siemens,somatom definition flash
+s0089,f,75,siemens,somatom definition flash
+s0090,f,72,siemens,emotion 16
+s0102,m,41,siemens,sensation 16
+s0106,m,55,siemens,somatom definition as+
+s0107,f,87,siemens,somatom definition as+
+s0108,m,51,siemens,somatom definition flash
+s0109,m,76,siemens,emotion 16
+s0117,m,50,siemens,somatom definition as+
+s0119,m,43,siemens,somatom definition flash
+s0120,m,60,siemens,emotion 16
+s0123,m,80,siemens,emotion 16
+s0133,m,69,siemens,somatom definition flash
+s0137,f,67,siemens,somatom definition flash
+s0139,f,30,siemens,somatom definition flash
+s0141,f,57,siemens,somatom definition flash
+s0143,m,22,siemens,somatom definition as+
+s0150,m,78,siemens,sensation 16
+s0153,m,38,siemens,emotion 16
+s0157,f,77,siemens,sensation 64
+s0158,m,50,siemens,emotion 16
+s0161,m,53,siemens,emotion 16
+s0166,m,58,siemens,sensation 64
+s0168,f,64,siemens,somatom definition flash
+s0174,f,59,siemens,sensation 64
+s0178,m,61,siemens,somatom definition flash
+s0182,m,47,siemens,somatom definition flash
+s0183,m,69,siemens,sensation 16
+s0190,f,59,siemens,somatom definition as+
+s0192,f,30,siemens,emotion 16
+s0193,m,63,siemens,emotion 16
+s0194,f,67,siemens,sensation 16
+s0201,f,51,siemens,somatom definition as+
+s0204,m,36,siemens,emotion 16
+s0206,f,81,siemens,sensation 16
+s0211,m,82,siemens,somatom definition as+
+s0212,m,66,siemens,somatom definition as+
+s0218,f,69,siemens,somatom definition flash
+s0222,m,67,siemens,somatom definition as+
+s0224,m,47,siemens,somatom definition as+
+s0227,f,65,siemens,somatom definition as+
+s0228,m,42,siemens,emotion 16
+s0232,m,82,siemens,sensation 16
+s0235,f,44,siemens,somatom definition flash
+s0236,m,78,siemens,emotion 16
+s0237,f,45,siemens,somatom definition flash
+s0238,m,17,siemens,somatom definition as+
+s0243,m,56,siemens,emotion 16
+s0244,m,85,siemens,somatom definition flash
+s0247,f,50,siemens,somatom definition as+
+s0248,f,71,siemens,emotion 16
+s0250,m,67,siemens,somatom definition flash
+s0252,f,40,siemens,somatom definition as+
+s0255,f,57,siemens,somatom definition as+
+s0258,m,41,siemens,somatom definition as+
+s0260,f,48,siemens,somatom definition as+
+s0262,m,31,siemens,sensation 64
+s0275,m,46,siemens,somatom definition flash
+s0286,m,74,siemens,somatom definition as+
+s0293,m,77,siemens,sensation 16
+s0300,m,76,siemens,emotion 16
+s0307,f,69,siemens,sensation 16
+s0314,m,83,siemens,sensation 64
+s0319,m,67,siemens,somatom definition as+
+s0324,f,54,siemens,somatom definition as+
+s0325,f,65,siemens,sensation 64
+s0328,m,60,siemens,somatom definition flash
+s0329,m,46,siemens,emotion 16
+s0331,m,48,philips,iqon - spectral ct
+s0332,m,68,siemens,somatom definition flash
+s0334,m,48,philips,ingenuity core 128
+s0339,f,83,ge,lightspeed vct
+s0341,m,75,philips,iqon - spectral ct
+s0342,f,60,philips,ingenuity core 128
+s0344,m,57,siemens,somatom definition as+
+s0354,m,60,philips,ingenuity core 128
+s0355,m,60,philips,ingenuity core 128
+s0362,m,82,siemens,somatom definition as+
+s0366,f,48,siemens,somatom definition as+
+s0369,m,70,siemens,somatom definition flash
+s0370,m,60,ge,lightspeed vct
+s0371,f,52,philips,ingenuity core 128
+s0375,m,46,siemens,somatom definition flash
+s0383,f,80,siemens,emotion 16
+s0394,m,63,philips,ingenuity core 128
+s0402,f,74,siemens,somatom definition flash
+s0406,m,66,philips,ingenuity core 128
+s0408,m,88,siemens,emotion 16
+s0412,m,72,siemens,somatom definition as+
+s0416,m,30,philips,ingenuity core 128
+s0422,m,71,philips,iqon - spectral ct
+s0423,m,65,siemens,emotion 16
+s0428,m,24,philips,iqon - spectral ct
+s0429,f,48,siemens,somatom definition flash
+s0433,m,39,philips,iqon - spectral ct
+s0436,f,57,siemens,somatom definition edge
+s0438,f,46,philips,ingenuity core 128
+s0440,f,55,siemens,somatom definition flash
+s0441,m,72,ge,lightspeed vct
+s0447,f,76,siemens,somatom definition edge
+s0455,m,73,philips,iqon - spectral ct
+s0456,f,69,siemens,emotion 16
+s0458,f,83,siemens,sensation 16
+s0461,m,58,siemens,emotion 16
+s0470,m,52,philips,ingenuity core 128
+s0471,f,63,siemens,sensation 16
+s0472,f,64,siemens,emotion 16
+s0473,m,73,siemens,sensation 16
+s0476,m,61,siemens,somatom definition edge
+s0477,f,68,siemens,somatom definition as+
+s0480,m,74,philips,ingenuity core 128
+s0483,f,51,siemens,somatom definition flash
+s0484,m,64,siemens,somatom definition flash
+s0486,m,50,ge,lightspeed vct
+s0495,f,64,ge,lightspeed vct
+s0498,m,65,siemens,somatom definition edge
+s0499,f,61,philips,ingenuity core 128
+s0500,m,49,siemens,sensation 16
+s0502,m,70,philips,ingenuity core 128
+s0507,m,69,siemens,somatom definition flash
+s0509,m,49,siemens,sensation 16
+s0510,f,63,siemens,emotion 16
+s0511,m,40,siemens,somatom definition as+
+s0513,f,65,siemens,somatom definition flash
+s0516,m,88,siemens,somatom definition flash
+s0519,m,64,siemens,somatom definition flash
+s0529,f,33,siemens,somatom definition flash
+s0536,m,65,siemens,somatom definition flash
+s0541,m,71,siemens,somatom definition as+
+s0543,f,54,siemens,somatom definition flash
+s0545,f,43,philips,ingenuity core 128
+s0546,m,64,siemens,emotion 16
+s0548,m,65,siemens,sensation 16
+s0549,m,69,siemens,emotion 16
+s0550,m,62,siemens,emotion 16
+s0551,f,82,philips,ingenuity core 128
+s0553,f,45,philips,ingenuity core 128
+s0555,m,72,siemens,sensation 16
+s0556,m,51,siemens,somatom definition as+
+s0560,f,44,siemens,sensation 16
+s0561,m,76,siemens,emotion 16
+s0566,m,48,siemens,sensation 16
+s0571,f,55,siemens,somatom definition flash
+s0574,m,51,siemens,somatom definition flash
+s0578,f,67,siemens,somatom definition flash
+s0586,m,58,ge,lightspeed vct
+s0589,f,58,siemens,emotion 16
+s0591,m,74,siemens,somatom definition as+
+s0592,f,86,siemens,somatom definition as+
+s0593,f,55,siemens,somatom definition edge
+s0600,m,65,siemens,sensation 16
+s0602,f,44,siemens,emotion 16
+s0607,m,61,siemens,sensation 16
+s0612,f,73,siemens,emotion 16
+s0613,m,67,siemens,emotion 16
+s0615,f,60,siemens,sensation 16
+s0616,m,56,siemens,somatom definition as+
+s0617,m,57,siemens,somatom definition flash
+s0618,f,66,siemens,emotion 16
+s0619,f,79,siemens,emotion 16
+s0620,m,67,philips,ingenuity core 128
+s0623,m,89,siemens,somatom definition flash
+s0625,m,54,siemens,somatom definition edge
+s0626,f,60,philips,ingenuity core 128
+s0628,f,61,siemens,somatom definition as+
+s0635,f,76,siemens,somatom definition edge
+s0639,f,58,siemens,emotion 16
+s0644,f,66,siemens,emotion 16
+s0648,f,72,siemens,emotion 16
+s0649,f,63,siemens,somatom definition flash
+s0650,m,65,siemens,somatom definition as+
+s0651,m,81,siemens,sensation 16
+s0656,f,71,siemens,emotion 16
+s0657,m,53,siemens,somatom definition flash
+s0661,f,90,siemens,emotion 16
+s0662,m,51,siemens,somatom definition flash
+s0663,f,61,siemens,somatom definition edge
+s0664,f,74,siemens,somatom definition as+
+s0667,m,65,siemens,emotion 16
+s0682,m,44,siemens,sensation 16
+s0683,m,75,siemens,somatom definition flash
+s0686,m,74,siemens,somatom definition as+
+s0690,f,94,siemens,somatom definition as+
+s0694,m,32,philips,ingenuity core 128
+s0699,f,80,philips,ingenuity core 128
+s0703,m,79,siemens,somatom definition edge
+s0705,m,67,siemens,sensation 16
+s0708,f,36,siemens,somatom definition edge
+s0709,m,70,philips,ingenuity core 128
+s0711,m,64,ge,lightspeed vct
+s0720,m,30,siemens,somatom definition flash
+s0721,f,33,siemens,somatom definition as+
+s0723,f,71,siemens,emotion 16
+s0726,f,69,siemens,somatom definition edge
+s0728,f,51,philips,ingenuity core 128
+s0731,f,57,siemens,emotion 16
+s0733,m,66,siemens,somatom definition as+
+s0739,m,37,siemens,somatom definition edge
+s0746,m,62,philips,ingenuity core 128
+s0749,m,75,siemens,sensation 16
+s0754,m,60,siemens,somatom force
+s0760,f,42,siemens,somatom force
+s0762,m,65,siemens,somatom definition as+
+s0763,m,58,siemens,somatom force
+s0764,f,75,siemens,somatom go.top
+s0765,f,54,siemens,somatom definition flash
+s0768,f,75,siemens,somatom go.top
+s0770,m,77,siemens,somatom go.top
+s0775,m,73,siemens,somatom go.top
+s0777,m,74,siemens,somatom force
+s0778,m,57,siemens,somatom go.top
+s0785,f,56,siemens,somatom go.top
+s0790,f,40,siemens,somatom force
+s0794,f,60,siemens,somatom definition edge
+s0795,f,56,siemens,somatom go.top
+s0796,m,82,siemens,somatom definition flash
+s0797,f,63,siemens,somatom force
+s0798,f,56,siemens,somatom go.top
+s0801,m,57,siemens,somatom go.top
+s0806,m,72,siemens,somatom force
+s0812,m,60,siemens,somatom force
+s0816,f,66,siemens,somatom go.top
+s0830,m,84,siemens,somatom go.top
+s0835,f,53,siemens,somatom definition flash
+s0836,f,62,siemens,somatom definition edge
+s0842,f,64,siemens,somatom force
+s0859,f,70,siemens,somatom force
+s0860,m,56,siemens,somatom force
+s0863,f,61,siemens,somatom definition edge
+s0864,f,57,siemens,somatom go.top
+s0869,m,75,siemens,somatom definition flash
+s0878,m,66,siemens,somatom go.top
+s0880,m,72,siemens,somatom force
+s0884,m,56,siemens,somatom definition flash
+s0894,m,35,siemens,somatom force
+s0896,f,21,siemens,somatom definition edge
+s0899,m,74,siemens,somatom definition edge
+s0903,m,87,siemens,somatom force
+s0904,m,82,siemens,somatom definition as+
+s0912,m,68,siemens,somatom force
+s0913,m,29,siemens,somatom definition edge
+s0915,m,71,siemens,somatom definition edge
+s0916,m,65,siemens,somatom go.top
+s0918,m,67,siemens,somatom definition flash
+s0923,f,43,siemens,somatom definition edge
+s0924,m,63,siemens,somatom definition edge
+s0928,f,77,siemens,somatom go.top
+s0933,f,55,siemens,somatom force
+s0939,m,73,siemens,somatom go.top
+s0940,m,77,siemens,somatom force
+s0945,f,68,siemens,somatom definition edge
+s0950,f,79,siemens,somatom definition edge
+s0957,f,50,siemens,somatom definition flash
+s0959,f,47,siemens,somatom force
+s0961,m,56,siemens,somatom go.top
+s0963,f,59,siemens,somatom force
+s0965,f,64,siemens,somatom force
+s0970,f,51,siemens,somatom force
+s0979,m,74,philips,brilliance 64
+s0982,m,56,siemens,somatom force
+s0983,m,67,siemens,somatom force
+s0985,f,73,siemens,somatom definition edge
+s0986,f,88,siemens,somatom force
+s0991,f,71,siemens,somatom go.top
+s0992,f,54,siemens,somatom definition edge
+s0994,m,79,siemens,somatom go.top
+s1006,f,67,siemens,somatom force
+s1008,f,76,siemens,somatom definition flash
+s1012,m,46,siemens,somatom definition edge
+s1024,m,31,siemens,somatom definition flash
+s1031,m,69,siemens,somatom definition flash
+s1037,f,71,philips,ingenuity core 128
+s1038,m,58,siemens,somatom definition edge
+s1044,m,71,siemens,somatom definition flash
+s1045,m,62,siemens,somatom force
+s1046,m,72,siemens,somatom force
+s1061,f,44,siemens,somatom definition edge
+s1063,f,49,ge,discovery ste
+s1069,m,71,siemens,somatom force
+s1070,f,37,siemens,somatom force
+s1082,m,69,siemens,somatom force
+s1085,m,76,siemens,somatom definition edge
+s1086,m,45,ge,lightspeed vct
+s1089,m,65,siemens,somatom definition edge
+s1090,m,80,ge,lightspeed vct
+s1099,f,52,siemens,somatom definition edge
+s1111,m,70,siemens,somatom force
+s1119,m,50,ge,lightspeed vct
+s1120,f,55,siemens,somatom definition edge
+s1123,m,48,siemens,somatom force
+s1124,m,72,siemens,somatom force
+s1127,f,69,siemens,somatom definition flash
+s1130,m,82,philips,iqon - spectral ct
+s1131,f,42,philips,brilliance 64
+s1132,f,67,ge,lightspeed vct
+s1135,m,52,siemens,somatom definition as+
+s1143,m,70,ge,lightspeed vct
+s1145,f,57,ge,lightspeed vct
+s1152,f,76,siemens,somatom force
+s1153,f,42,philips,ingenuity core 128
+s1155,f,66,ge,lightspeed vct
+s1159,f,47,siemens,somatom force
+s1161,m,52,siemens,somatom force
+s1171,m,26,siemens,somatom force
+s1174,m,61,siemens,somatom force
+s1176,f,43,siemens,somatom definition flash
+s1183,m,62,philips,ingenuity core 128
+s1187,m,62,philips,ingenuity core 128
+s1189,f,41,philips,ingenuity core 128
+s1206,m,62,siemens,somatom force
+s1207,f,83,siemens,somatom definition as+
+s1209,m,74,siemens,somatom definition as+
+s1210,m,80,siemens,somatom definition as+
+s1212,f,70,philips,brilliance 64
+s1224,m,72,siemens,somatom definition flash
+s1233,f,88,siemens,somatom definition flash
+s1238,m,64,siemens,somatom definition as+
+s1244,m,68,philips,ingenuity core 128
+s1247,f,27,ge,lightspeed vct
+s1249,f,94,siemens,somatom definition as+
+s1255,m,74,ge,lightspeed vct
+s1270,m,63,philips,iqon - spectral ct
+s1273,m,56,siemens,somatom definition edge
+s1276,f,50,siemens,somatom definition flash
+s1283,f,75,siemens,somatom definition edge
+s1285,m,57,philips,ingenuity core 128
+s1287,m,77,siemens,somatom definition edge
+s1291,f,71,ge,lightspeed vct
+s1294,f,21,siemens,somatom definition flash
+s1297,m,84,siemens,somatom definition as+
+s1304,m,67,siemens,somatom definition as+
+s1307,m,52,siemens,somatom definition as+
+s1314,f,62,siemens,somatom definition as+
+s1321,m,50,siemens,somatom definition as+
+s1322,m,57,ge,lightspeed vct
+s1329,f,80,siemens,sensation 16
+s1331,m,74,ge,lightspeed vct
+s1336,m,79,siemens,somatom definition edge
+s1340,m,82,ge,lightspeed vct
+s1348,m,69,siemens,somatom definition edge
+s1350,f,66,siemens,somatom definition as+
+s1354,m,31,siemens,somatom definition as+
+s1366,,50,siemens,sensation 64
+s1411,m,63,,
+s1412,m,43,,
+s1413,m,32,,
+s1414,f,43,,
+s1415,f,68,,
+s1420,m,90,,
+s1421,m,69,,
+s1422,f,64,,
+s1423,f,27,,
+s1424,f,98,,
