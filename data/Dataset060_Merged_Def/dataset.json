@@ -1,0 +1,23 @@
+
+{ 
+ "channel_names": {
+   "0": "CT"
+ }, 
+ "labels": {
+   "background": 0,
+   "spleen": 1,
+   "right_kidney": 2,
+   "left_kidney": 3,
+   "gallbladder": 4,
+   "esophagus": 5,
+   "liver": 6,
+   "stomach": 7,
+   "aorta": 8,
+   "inferior_vena_cava": 9,
+   "pancreas": 10,
+   "right_adrenal_gland": 11,
+   "left_adrenal_gland": 12
+ }, 
+ "numTraining": 680, 
+ "file_ending": ".nii.gz"
+ }
